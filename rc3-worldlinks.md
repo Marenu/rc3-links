@@ -1961,6 +1961,7 @@ https://visit.rc3.world/@/rc3_21/digitalcourage/bs/u-marktstr.json#start_door
 https://visit.rc3.world/@/rc3_21/digitalcourage/bs/u-marktstr.json#start_hole
 https://visit.rc3.world/@/rc3_21/digitalcourage/bs/u-marktstr.json#start_platform
 https://visit.rc3.world/@/rc3_21/digitalcourage/main.json
+https://visit.rc3.world/@/rc3_21/digitalcourage/main.json#dancefloor
 https://visit.rc3.world/@/rc3_21/digitalcourage/main.json#enterFromBibliothek
 https://visit.rc3.world/@/rc3_21/digitalcourage/main.json#enterFromBraunschweig
 https://visit.rc3.world/@/rc3_21/digitalcourage/main.json#enterFromBurg
@@ -6176,6 +6177,7 @@ https://visit.rc3.world/@/rc3_21/portcarl/doenerstudio.json
 https://visit.rc3.world/@/rc3_21/portcarl/fliesntisch.json
 https://visit.rc3.world/@/rc3_21/portcarl/greencarl.json
 https://visit.rc3.world/@/rc3_21/portcarl/main.json
+https://visit.rc3.world/@/rc3_21/portcarl/megaverse.json
 https://visit.rc3.world/@/rc3_21/portcarl/phantoland.json
 https://visit.rc3.world/@/rc3_21/portcarl/portcarl.json
 https://visit.rc3.world/@/rc3_21/portcarl/redroom.json
