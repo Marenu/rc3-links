@@ -1,574 +1,532 @@
-https://visit.rc3.world/@/rc3_21/0x90/basement.json -> 0x90-0x90.space -> https://jitsi.rc3.world/0x90-0x90.space
-https://visit.rc3.world/@/rc3_21/0x90/first-floor.json -> 0x90-DigitalesHeizhausBruecke -> https://jitsi.rc3.world/0x90-DigitalesHeizhausBruecke
-https://visit.rc3.world/@/rc3_21/0x90/first-floor.json -> 0x90-DigitalesHeizhausBrueckeSeminar -> https://jitsi.rc3.world/0x90-DigitalesHeizhausBrueckeSeminar
-https://visit.rc3.world/@/rc3_21/0x90/main.json -> 0x90-DigitalesHeizhausGarten -> https://jitsi.rc3.world/0x90-DigitalesHeizhausGarten
-https://visit.rc3.world/@/rc3_21/0x90/main.json -> 0x90-DigitalesHeizhausGarten2 -> https://jitsi.rc3.world/0x90-DigitalesHeizhausGarten2
-https://visit.rc3.world/@/rc3_21/0x90/main.json -> 0x90-DigitalesHeizhausHolzwerkstatt -> https://jitsi.rc3.world/0x90-DigitalesHeizhausHolzwerkstatt
-https://visit.rc3.world/@/rc3_21/0x90/main.json -> 0x90-DigitalesHeizhausWerkstatt -> https://jitsi.rc3.world/0x90-DigitalesHeizhausWerkstatt
-https://visit.rc3.world/@/rc3_21/1komona/main.json -> 1komona-1komona -> https://jitsi.rc3.world/1komona-1komona
-https://visit.rc3.world/@/rc3_21/abchillgleis/main.json -> abchillgleis-c3chilllounge -> https://jitsi.rc3.world/abchillgleis-c3chilllounge
-https://visit.rc3.world/@/rc3_21/abchillgleis/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/afoio/fiff/sub.json -> afoio-forum -> https://jitsi.rc3.world/afoio-forum
-https://visit.rc3.world/@/rc3_21/afoio/fridaysforfuture/sub.json -> shared_heyopeops -> https://jitsi.rc3.world/shared_heyopeops
-https://visit.rc3.world/@/rc3_21/afoio/fridaysforfuture/sub.json -> shared_heyopeops2 -> https://jitsi.rc3.world/shared_heyopeops2
-https://visit.rc3.world/@/rc3_21/afoio/fridaysforfuture/sub.json -> shared_heyopeops3 -> https://jitsi.rc3.world/shared_heyopeops3
-https://visit.rc3.world/@/rc3_21/afoio/halle/sub.json -> afoio- -> https://jitsi.rc3.world/afoio-
-https://visit.rc3.world/@/rc3_21/afoio/halle/sub.json -> shared oio-treppe -> https://jitsi.rc3.world/shared oio-treppe
-https://visit.rc3.world/@/rc3_21/afoio/main.json -> shared oio-bonfire -> https://jitsi.rc3.world/shared oio-bonfire
-https://visit.rc3.world/@/rc3_21/afoio/main.json -> shared oio-tunnel -> https://jitsi.rc3.world/shared oio-tunnel
-https://visit.rc3.world/@/rc3_21/afra/main.json -> afra-_afra_hackcenter -> https://jitsi.rc3.world/afra-_afra_hackcenter
-https://visit.rc3.world/@/rc3_21/afra/main.json -> afra-_afra_sofa -> https://jitsi.rc3.world/afra-_afra_sofa
-https://visit.rc3.world/@/rc3_21/airl/main.json -> airl-AdFreeForumMeeting1 -> https://jitsi.rc3.world/airl-AdFreeForumMeeting1
-https://visit.rc3.world/@/rc3_21/airl/main.json -> airl-AdFreeForumMeeting2 -> https://jitsi.rc3.world/airl-AdFreeForumMeeting2
-https://visit.rc3.world/@/rc3_21/akk/main.json -> akk-jitsi-akk-008 -> https://jitsi.rc3.world/akk-jitsi-akk-008
-https://visit.rc3.world/@/rc3_21/akk/main.json -> akk-jitsi-akk-buero -> https://jitsi.rc3.world/akk-jitsi-akk-buero
-https://visit.rc3.world/@/rc3_21/anarchist-village/main.json -> anarchist-village-campfire -> https://jitsi.rc3.world/anarchist-village-campfire
-https://visit.rc3.world/@/rc3_21/anarchist-village/main.json -> anarchist-village-disco -> https://jitsi.rc3.world/anarchist-village-disco
-https://visit.rc3.world/@/rc3_21/anarchist-village/main.json -> anarchist-village-hacking -> https://jitsi.rc3.world/anarchist-village-hacking
-https://visit.rc3.world/@/rc3_21/anarchist-village/main.json -> anarchist-village-hangout -> https://jitsi.rc3.world/anarchist-village-hangout
-https://visit.rc3.world/@/rc3_21/angelkitchen/oldworld/kueche_bckstge.json -> shared kitchenparty -> https://jitsi.rc3.world/shared kitchenparty
-https://visit.rc3.world/@/rc3_21/angelkitchen/oldworld/kueche_bckstge.json -> shared kitchenparty -> https://jitsi.rc3.world/shared kitchenparty
-https://visit.rc3.world/@/rc3_21/angelkitchen/oldworld/kueche_groundzero.json -> shared kitchenparty -> https://jitsi.rc3.world/shared kitchenparty
-https://visit.rc3.world/@/rc3_21/atka/atkabay.json -> atka-neumayer -> https://jitsi.rc3.world/atka-neumayer
-https://visit.rc3.world/@/rc3_21/awareness/main.json -> awareness-AwarenessCafe -> https://jitsi.rc3.world/awareness-AwarenessCafe
-https://visit.rc3.world/@/rc3_21/awareness/main.json -> shared-Kloparty -> https://jitsi.rc3.world/shared-Kloparty
-https://visit.rc3.world/@/rc3_21/backdoor/main.json -> backdoor-backdoor -> https://jitsi.rc3.world/backdoor-backdoor
-https://visit.rc3.world/@/rc3_21/backdoor/main.json -> backdoor-tea -> https://jitsi.rc3.world/backdoor-tea
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-bar -> https://jitsi.rc3.world/bc-WA-bar
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-BrauneEcke -> https://jitsi.rc3.world/bc-WA-BrauneEcke
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-KloFrauen -> https://jitsi.rc3.world/bc-WA-KloFrauen
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-KloMaenner -> https://jitsi.rc3.world/bc-WA-KloMaenner
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-Raucherbereich -> https://jitsi.rc3.world/bc-WA-Raucherbereich
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-Rumpelgasse -> https://jitsi.rc3.world/bc-WA-Rumpelgasse
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-sofablau -> https://jitsi.rc3.world/bc-WA-sofablau
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-sofabraunrot -> https://jitsi.rc3.world/bc-WA-sofabraunrot
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-sofagraugruen -> https://jitsi.rc3.world/bc-WA-sofagraugruen
-https://visit.rc3.world/@/rc3_21/bc-WA/main.json -> bc-WA-Veteranentisch -> https://jitsi.rc3.world/bc-WA-Veteranentisch
-https://visit.rc3.world/@/rc3_21/binhacken/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/binhacken/tu.json -> binhacken-Technischer Untergrund -> https://jitsi.rc3.world/binhacken-Technischer Untergrund
-https://visit.rc3.world/@/rc3_21/bitwaescherei/main.json -> bitwaescherei-lounge -> https://jitsi.rc3.world/bitwaescherei-lounge
-https://visit.rc3.world/@/rc3_21/bogonauten/main.json -> bogonauten-Bogonauten -> https://jitsi.rc3.world/bogonauten-Bogonauten
-https://visit.rc3.world/@/rc3_21/Bordel/main.json -> Bordel-bordel-chillzone -> https://jitsi.rc3.world/Bordel-bordel-chillzone
-https://visit.rc3.world/@/rc3_21/bstly/downstairs.json -> bstly-bstly-clubhaus-bathroom -> https://jitsi.rc3.world/bstly-bstly-clubhaus-bathroom
-https://visit.rc3.world/@/rc3_21/bstly/main.json -> bstly-bstly-clubhaus-bar -> https://jitsi.rc3.world/bstly-bstly-clubhaus-bar
-https://visit.rc3.world/@/rc3_21/bstly/main.json -> bstly-bstly-clubhaus-campfire -> https://jitsi.rc3.world/bstly-bstly-clubhaus-campfire
-https://visit.rc3.world/@/rc3_21/bstly/main.json -> bstly-bstly-clubhaus-chill-lounge -> https://jitsi.rc3.world/bstly-bstly-clubhaus-chill-lounge
-https://visit.rc3.world/@/rc3_21/bstly/main.json -> bstly-bstly-clubhaus-disco -> https://jitsi.rc3.world/bstly-bstly-clubhaus-disco
-https://visit.rc3.world/@/rc3_21/bstly/main.json -> bstly-bstly-clubhaus-game -> https://jitsi.rc3.world/bstly-bstly-clubhaus-game
-https://visit.rc3.world/@/rc3_21/bstly/main.json -> bstly-bstly-clubhaus-playground -> https://jitsi.rc3.world/bstly-bstly-clubhaus-playground
-https://visit.rc3.world/@/rc3_21/bstly/roof.json -> bstly-bstly-clubhaus-barbecue -> https://jitsi.rc3.world/bstly-bstly-clubhaus-barbecue
-https://visit.rc3.world/@/rc3_21/bstly/roof_place.json -> bstly-bstly-clubhaus-roof-place-blue -> https://jitsi.rc3.world/bstly-bstly-clubhaus-roof-place-blue
-https://visit.rc3.world/@/rc3_21/bstly/roof_place.json -> bstly-bstly-clubhaus-roof-place-disco -> https://jitsi.rc3.world/bstly-bstly-clubhaus-roof-place-disco
-https://visit.rc3.world/@/rc3_21/bstly/roof_place.json -> bstly-bstly-clubhaus-roof-place-green -> https://jitsi.rc3.world/bstly-bstly-clubhaus-roof-place-green
-https://visit.rc3.world/@/rc3_21/bstly/roof_place.json -> bstly-bstly-clubhaus-roof-place-red -> https://jitsi.rc3.world/bstly-bstly-clubhaus-roof-place-red
-https://visit.rc3.world/@/rc3_21/bstly/upstairs.json -> bstly-bstly-clubhaus-cinema -> https://jitsi.rc3.world/bstly-bstly-clubhaus-cinema
-https://visit.rc3.world/@/rc3_21/bstly/upstairs.json -> bstly-bstly-clubhaus-seminar-room -> https://jitsi.rc3.world/bstly-bstly-clubhaus-seminar-room
-https://visit.rc3.world/@/rc3_21/bub/main.json -> bub-bub_chillout -> https://jitsi.rc3.world/bub-bub_chillout
-https://visit.rc3.world/@/rc3_21/bytewerk/main.json -> bytewerk-bytewerk -> https://jitsi.rc3.world/bytewerk-bytewerk
-https://visit.rc3.world/@/rc3_21/c2is/workshop.json -> c2is-workshopTable -> https://jitsi.rc3.world/c2is-workshopTable
-https://visit.rc3.world/@/rc3_21/c3auti/main.json -> c3auti-helpdesk -> https://jitsi.rc3.world/c3auti-helpdesk
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-b3 -> https://jitsi.rc3.world/c3auti-b3
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-b4 -> https://jitsi.rc3.world/c3auti-b4
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-b5 -> https://jitsi.rc3.world/c3auti-b5
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-b7 -> https://jitsi.rc3.world/c3auti-b7
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-c2 -> https://jitsi.rc3.world/c3auti-c2
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-c3 -> https://jitsi.rc3.world/c3auti-c3
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-c5 -> https://jitsi.rc3.world/c3auti-c5
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-d2 -> https://jitsi.rc3.world/c3auti-d2
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-d3 -> https://jitsi.rc3.world/c3auti-d3
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-d6 -> https://jitsi.rc3.world/c3auti-d6
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-e6 -> https://jitsi.rc3.world/c3auti-e6
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-e7 -> https://jitsi.rc3.world/c3auti-e7
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-f3 -> https://jitsi.rc3.world/c3auti-f3
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-f5 -> https://jitsi.rc3.world/c3auti-f5
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-f6 -> https://jitsi.rc3.world/c3auti-f6
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-g4 -> https://jitsi.rc3.world/c3auti-g4
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-g7 -> https://jitsi.rc3.world/c3auti-g7
-https://visit.rc3.world/@/rc3_21/c3auti/quiet-lounge.json -> c3auti-quiet-cube -> https://jitsi.rc3.world/c3auti-quiet-cube
-https://visit.rc3.world/@/rc3_21/c3pb/main.json -> c3pb-kitchen -> https://jitsi.rc3.world/c3pb-kitchen
-https://visit.rc3.world/@/rc3_21/c3pb/main.json -> c3pb-master -> https://jitsi.rc3.world/c3pb-master
-https://visit.rc3.world/@/rc3_21/c3s/main.json -> c3s-ChillloutC3S -> https://jitsi.rc3.world/c3s-ChillloutC3S
-https://visit.rc3.world/@/rc3_21/c3s/main.json -> c3s-WorkMeetingC3S -> https://jitsi.rc3.world/c3s-WorkMeetingC3S
-https://visit.rc3.world/@/rc3_21/c4/cellar.json -> c4-cccc_cellar -> https://jitsi.rc3.world/c4-cccc_cellar
-https://visit.rc3.world/@/rc3_21/c4/main.json -> c4-cccc_fnordCenter -> https://jitsi.rc3.world/c4-cccc_fnordCenter
-https://visit.rc3.world/@/rc3_21/c4/main.json -> c4-cccc_livingRoom -> https://jitsi.rc3.world/c4-cccc_livingRoom
-https://visit.rc3.world/@/rc3_21/c4/main.json -> c4-cccc_livingRoom -> https://jitsi.rc3.world/c4-cccc_livingRoom
-https://visit.rc3.world/@/rc3_21/c4/main.json -> c4-cccc_plenarSaal -> https://jitsi.rc3.world/c4-cccc_plenarSaal
-https://visit.rc3.world/@/rc3_21/c4/main.json -> shared-JitsiPhonebooth -> https://jitsi.rc3.world/shared-JitsiPhonebooth
-https://visit.rc3.world/@/rc3_21/c-base/darkroom.json -> c-base-darkroom -> https://jitsi.rc3.world/c-base-darkroom
-https://visit.rc3.world/@/rc3_21/c-base/ring1.json -> c-base-cbaseAmbient -> https://jitsi.rc3.world/c-base-cbaseAmbient
-https://visit.rc3.world/@/rc3_21/c-base/ring2.json -> c-base-c-base-socialize -> https://jitsi.rc3.world/c-base-c-base-socialize
-https://visit.rc3.world/@/rc3_21/c-base/ring3.json -> c-base-cbaseBierbank -> https://jitsi.rc3.world/c-base-cbaseBierbank
-https://visit.rc3.world/@/rc3_21/c-base/ring3.json -> c-base-cbaseFireplace -> https://jitsi.rc3.world/c-base-cbaseFireplace
-https://visit.rc3.world/@/rc3_21/c-base/tunnels.json -> c-base-cbase-tunnel-fire -> https://jitsi.rc3.world/c-base-cbase-tunnel-fire
-https://visit.rc3.world/@/rc3_21/ccc-basel/main.json -> ccc-basel-assemblyCccBasel -> https://jitsi.rc3.world/ccc-basel-assemblyCccBasel
-https://visit.rc3.world/@/rc3_21/cccch/main.json -> cccch-cccch-rc3-teppiche -> https://jitsi.rc3.world/cccch-cccch-rc3-teppiche
-https://visit.rc3.world/@/rc3_21/cccch/main.json -> cccch-coredump-rc3 -> https://jitsi.rc3.world/cccch-coredump-rc3
-https://visit.rc3.world/@/rc3_21/CCCHH/cmsnord/bildungskloenschnack.json -> CCCHH-garteneins -> https://jitsi.rc3.world/CCCHH-garteneins
-https://visit.rc3.world/@/rc3_21/CCCHH/cmsnord/bildungskloenschnack.json -> CCCHH-gartenzwei -> https://jitsi.rc3.world/CCCHH-gartenzwei
-https://visit.rc3.world/@/rc3_21/CCCHH/cmsnord/bildungskloenschnack.json -> CCCHH-kleingruppenraum -> https://jitsi.rc3.world/CCCHH-kleingruppenraum
-https://visit.rc3.world/@/rc3_21/CCCHH/zNEON/zNEON.json -> CCCHH-couch -> https://jitsi.rc3.world/CCCHH-couch
-https://visit.rc3.world/@/rc3_21/CCCHH/zNEON/zNEON.json -> CCCHH-deskGroup0 -> https://jitsi.rc3.world/CCCHH-deskGroup0
-https://visit.rc3.world/@/rc3_21/CCCHH/zNEON/zNEON.json -> CCCHH-deskGroup1 -> https://jitsi.rc3.world/CCCHH-deskGroup1
-https://visit.rc3.world/@/rc3_21/CCCHH/zNEON/zNEON.json -> CCCHH-kitchen -> https://jitsi.rc3.world/CCCHH-kitchen
-https://visit.rc3.world/@/rc3_21/CCCHH/zNEON/zNEON.json -> CCCHH-toilet0 -> https://jitsi.rc3.world/CCCHH-toilet0
-https://visit.rc3.world/@/rc3_21/CCCHH/zNEON/zNEON.json -> CCCHH-toilet1 -> https://jitsi.rc3.world/CCCHH-toilet1
-https://visit.rc3.world/@/rc3_21/cccp/main.json -> cccp-discoroommachbar -> https://jitsi.rc3.world/cccp-discoroommachbar
-https://visit.rc3.world/@/rc3_21/cccp/main.json -> cccp-machbarcampfire -> https://jitsi.rc3.world/cccp-machbarcampfire
-https://visit.rc3.world/@/rc3_21/cccsbg/main.json -> cccsbg-couches -> https://jitsi.rc3.world/cccsbg-couches
-https://visit.rc3.world/@/rc3_21/cccsbg/main.json -> cccsbg-desks -> https://jitsi.rc3.world/cccsbg-desks
-https://visit.rc3.world/@/rc3_21/cccsbg/phone_booth.json -> cccsbg-lab0 -> https://jitsi.rc3.world/cccsbg-lab0
-https://visit.rc3.world/@/rc3_21/cccsbg/phone_booth.json -> cccsbg-lab1 -> https://jitsi.rc3.world/cccsbg-lab1
-https://visit.rc3.world/@/rc3_21/cccwi/level2.json -> cccwi-teddybear -> https://jitsi.rc3.world/cccwi-teddybear
-https://visit.rc3.world/@/rc3_21/cccwi/level6.json -> cccwi-mapjitsi -> https://jitsi.rc3.world/cccwi-mapjitsi
-https://visit.rc3.world/@/rc3_21/cccwi/level8.json -> cccwi-ElevatorConf -> https://jitsi.rc3.world/cccwi-ElevatorConf
-https://visit.rc3.world/@/rc3_21/cccwi/main.json -> cccwi-wispacetalk -> https://jitsi.rc3.world/cccwi-wispacetalk
-https://visit.rc3.world/@/rc3_21/cccwi/rc3wi_mapDragon.json -> cccwi-cccwi_room_3 -> https://jitsi.rc3.world/cccwi-cccwi_room_3
-https://visit.rc3.world/@/rc3_21/cccwi/rc3wi_mapDragon.json -> cccwi-cccwi_stage_3 -> https://jitsi.rc3.world/cccwi-cccwi_stage_3
-https://visit.rc3.world/@/rc3_21/cccwi/rc3wi_mapDuck.json -> cccwi-cccwi_room_duck -> https://jitsi.rc3.world/cccwi-cccwi_room_duck
-https://visit.rc3.world/@/rc3_21/cccwi/rc3wi_mapDuck.json -> cccwi-cccwi_stage_2 -> https://jitsi.rc3.world/cccwi-cccwi_stage_2
-https://visit.rc3.world/@/rc3_21/cccwi/rc3wi_mapUnicorn.json -> cccwi-cccwi_room_unicorn -> https://jitsi.rc3.world/cccwi-cccwi_room_unicorn
-https://visit.rc3.world/@/rc3_21/cccwi/rc3wi_mapUnicorn.json -> cccwi-cccwi_stage_1 -> https://jitsi.rc3.world/cccwi-cccwi_stage_1
-https://visit.rc3.world/@/rc3_21/cccwi/sidescroller1.json -> cccwi-sidescrollerroom -> https://jitsi.rc3.world/cccwi-sidescrollerroom
-https://visit.rc3.world/@/rc3_21/cccwi/sidescroller2.json -> cccwi-sidescrollerroom -> https://jitsi.rc3.world/cccwi-sidescrollerroom
-https://visit.rc3.world/@/rc3_21/cccwi/videotext100.json -> cccwi-videotextroom -> https://jitsi.rc3.world/cccwi-videotextroom
-https://visit.rc3.world/@/rc3_21/cccwi/videotext101.json -> cccwi-videotextroom -> https://jitsi.rc3.world/cccwi-videotextroom
-https://visit.rc3.world/@/rc3_21/cccwi/videotext200.json -> cccwi-videotextroom -> https://jitsi.rc3.world/cccwi-videotextroom
-https://visit.rc3.world/@/rc3_21/cert/klinik_0.json -> cert-ponycircus -> https://jitsi.rc3.world/cert-ponycircus
-https://visit.rc3.world/@/rc3_21/cert/klinik_1.json -> cert-ponycircus -> https://jitsi.rc3.world/cert-ponycircus
-https://visit.rc3.world/@/rc3_21/cert/klinik_23.json -> cert-be_certlich -> https://jitsi.rc3.world/cert-be_certlich
-https://visit.rc3.world/@/rc3_21/cert/klinik_23.json -> cert-ponycircus -> https://jitsi.rc3.world/cert-ponycircus
-https://visit.rc3.world/@/rc3_21/cert/klinik_23.json -> cert-rocketworshippers -> https://jitsi.rc3.world/cert-rocketworshippers
-https://visit.rc3.world/@/rc3_21/cert/klinik_9
-https://visit.rc3.world/@/rc3_21/cert/klinik_9.json -> shared-kloparty -> https://jitsi.rc3.world/shared-kloparty
-https://visit.rc3.world/@/rc3_21/cert/klinik_test.json -> cert-dachterasse -> https://jitsi.rc3.world/cert-dachterasse
-https://visit.rc3.world/@/rc3_21/cert/klinik_test.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/cert/klinik_test.json -> shared-kloparty -> https://jitsi.rc3.world/shared-kloparty
-https://visit.rc3.world/@/rc3_21/cert/nerdaufnahme.json -> cert-MeetingRoom -> https://jitsi.rc3.world/cert-MeetingRoom
-https://visit.rc3.world/@/rc3_21/c-hack/main.json -> c-hack-ChillZone -> https://jitsi.rc3.world/c-hack-ChillZone
-https://visit.rc3.world/@/rc3_21/chaosamsterdam/basement.json -> chaosamsterdam-chaos-ams-basement-chill -> https://jitsi.rc3.world/chaosamsterdam-chaos-ams-basement-chill
-https://visit.rc3.world/@/rc3_21/chaosamsterdam/basement.json -> shared-chaos-ams-phonebooth -> https://jitsi.rc3.world/shared-chaos-ams-phonebooth
-https://visit.rc3.world/@/rc3_21/chaosamsterdam/main.json -> chaosamsterdam-chaos-ams-smokingroom -> https://jitsi.rc3.world/chaosamsterdam-chaos-ams-smokingroom
-https://visit.rc3.world/@/rc3_21/chaosamsterdam/main.json -> chaosamsterdam-chaos-ground-toparea -> https://jitsi.rc3.world/chaosamsterdam-chaos-ground-toparea
-https://visit.rc3.world/@/rc3_21/chaosamsterdam/main.json -> shared-chaos-ams-phonebooth -> https://jitsi.rc3.world/shared-chaos-ams-phonebooth
-https://visit.rc3.world/@/rc3_21/Chaosmentors/easter.json -> Chaosmentors-jitjsi_easter1 -> https://jitsi.rc3.world/Chaosmentors-jitjsi_easter1
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-blueTable -> https://jitsi.rc3.world/Chaosmentors-blueTable
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-greenTable -> https://jitsi.rc3.world/Chaosmentors-greenTable
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-jitsi1 -> https://jitsi.rc3.world/Chaosmentors-jitsi1
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-jitsi2 -> https://jitsi.rc3.world/Chaosmentors-jitsi2
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-jitsi3 -> https://jitsi.rc3.world/Chaosmentors-jitsi3
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-jitsi4 -> https://jitsi.rc3.world/Chaosmentors-jitsi4
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-jitsi5 -> https://jitsi.rc3.world/Chaosmentors-jitsi5
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-jitsi6 -> https://jitsi.rc3.world/Chaosmentors-jitsi6
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-redTable -> https://jitsi.rc3.world/Chaosmentors-redTable
-https://visit.rc3.world/@/rc3_21/Chaosmentors/main.json -> Chaosmentors-yellowTable -> https://jitsi.rc3.world/Chaosmentors-yellowTable
-https://visit.rc3.world/@/rc3_21/chaostrawler/main.json -> chaostrawler-c3teleshop -> https://jitsi.rc3.world/chaostrawler-c3teleshop
-https://visit.rc3.world/@/rc3_21/chaostreffbern/main.json -> chaostreffbern-assemblyChaostreffBernRoom1 -> https://jitsi.rc3.world/chaostreffbern-assemblyChaostreffBernRoom1
-https://visit.rc3.world/@/rc3_21/chaostreffbern/main.json -> chaostreffbern-assemblyChaostreffBernRoom2 -> https://jitsi.rc3.world/chaostreffbern-assemblyChaostreffBernRoom2
-https://visit.rc3.world/@/rc3_21/chaostreffbern/main.json -> chaostreffbern-assemblyChaostreffBernRoom3 -> https://jitsi.rc3.world/chaostreffbern-assemblyChaostreffBernRoom3
-https://visit.rc3.world/@/rc3_21/chaoswelle/main.json -> shared_chaoswelle -> https://jitsi.rc3.world/shared_chaoswelle
-https://visit.rc3.world/@/rc3_21/chaoswelle/main.json -> shared_chaoswelle_ws -> https://jitsi.rc3.world/shared_chaoswelle_ws
-https://visit.rc3.world/@/rc3_21/chaoszone/main.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/BU.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/DG.json -> chaotisch_inkorrekt-amongus -> https://jitsi.rc3.world/chaotisch_inkorrekt-amongus
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/DG.json -> chaotisch_inkorrekt-hoererinnentreffen -> https://jitsi.rc3.world/chaotisch_inkorrekt-hoererinnentreffen
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/DG.json -> chaotisch_inkorrekt-leitstelle -> https://jitsi.rc3.world/chaotisch_inkorrekt-leitstelle
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/EG.json -> chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_1 -> https://jitsi.rc3.world/chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_1
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/EG.json -> chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_2 -> https://jitsi.rc3.world/chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_2
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/EG.json -> chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_3 -> https://jitsi.rc3.world/chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_3
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/EG.json -> chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_4 -> https://jitsi.rc3.world/chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_4
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/KG.json -> chaotisch_inkorrekt-kleineBuehne -> https://jitsi.rc3.world/chaotisch_inkorrekt-kleineBuehne
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/KG.json -> chaotisch_inkorrekt-Werkstatt -> https://jitsi.rc3.world/chaotisch_inkorrekt-Werkstatt
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/main.json -> chaotisch_inkorrekt-Lagerfeuer -> https://jitsi.rc3.world/chaotisch_inkorrekt-Lagerfeuer
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/OG.json -> chaotisch_inkorrekt-Labor -> https://jitsi.rc3.world/chaotisch_inkorrekt-Labor
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/OG.json -> chaotisch_inkorrekt-zwift -> https://jitsi.rc3.world/chaotisch_inkorrekt-zwift
-https://visit.rc3.world/@/rc3_21/chaotisch_inkorrekt/WO.json -> chaotisch_inkorrekt-WO1 -> https://jitsi.rc3.world/chaotisch_inkorrekt-WO1
-https://visit.rc3.world/@/rc3_21/chch/chch/a102_2OG.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/chch/chch/a102_2OG.json -> shared-chch -> https://jitsi.rc3.world/shared-chch
-https://visit.rc3.world/@/rc3_21/chch/kreuzung/kosmonautenzentrum.json -> chch-kosmonautenzentrum -> https://jitsi.rc3.world/chch-kosmonautenzentrum
-https://visit.rc3.world/@/rc3_21/chch/kreuzung/kosmonautenzentrum.json -> shared-chch -> https://jitsi.rc3.world/shared-chch
-https://visit.rc3.world/@/rc3_21/chch/main.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/chch/main.json -> shared-chch -> https://jitsi.rc3.world/shared-chch
-https://visit.rc3.world/@/rc3_21/chch/zietenaugust/main.json -> chch-lagerfeuer -> https://jitsi.rc3.world/chch-lagerfeuer
-https://visit.rc3.world/@/rc3_21/chch/zietenaugust/main.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/chch/zietenaugust/main.json -> shared-chch -> https://jitsi.rc3.world/shared-chch
-https://visit.rc3.world/@/rc3_21/CleanElectric/main.json -> CleanElectric-CleanElectric -> https://jitsi.rc3.world/CleanElectric-CleanElectric
-https://visit.rc3.world/@/rc3_21/club-haengemathe/indoors.json -> club-haengemathe-workadvBar -> https://jitsi.rc3.world/club-haengemathe-workadvBar
-https://visit.rc3.world/@/rc3_21/club-haengemathe/indoors.json -> club-haengemathe-workadvTable1 -> https://jitsi.rc3.world/club-haengemathe-workadvTable1
-https://visit.rc3.world/@/rc3_21/club-haengemathe/main.json -> club-haengemathe-workadvFire -> https://jitsi.rc3.world/club-haengemathe-workadvFire
-https://visit.rc3.world/@/rc3_21/cogis/main.json -> cogis-meet.jit.si/cmrcc-rc3 -> https://jitsi.rc3.world/cogis-meet.jit.si/cmrcc-rc3
-https://visit.rc3.world/@/rc3_21/computertruhe/main.json -> computertruhe-Wohnzimmer -> https://jitsi.rc3.world/computertruhe-Wohnzimmer
-https://visit.rc3.world/@/rc3_21/computertruhe/workshop.json -> computertruhe-Lager -> https://jitsi.rc3.world/computertruhe-Lager
-https://visit.rc3.world/@/rc3_21/computerwerk/main.json -> computerwerk-bundjugend -> https://jitsi.rc3.world/computerwerk-bundjugend
-https://visit.rc3.world/@/rc3_21/CtAz/main.json -> CtAz-moon -> https://jitsi.rc3.world/CtAz-moon
-https://visit.rc3.world/@/rc3_21/CtAz/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/ctbk/wozi-eg.json -> ctbk-wozibk-tisch1 -> https://jitsi.rc3.world/ctbk-wozibk-tisch1
-https://visit.rc3.world/@/rc3_21/ctbk/wozi-eg.json -> ctbk-wozibk-tisch2 -> https://jitsi.rc3.world/ctbk-wozibk-tisch2
-https://visit.rc3.world/@/rc3_21/ctbk/wozi-eg.json -> ctbk-wozibk-tisch3 -> https://jitsi.rc3.world/ctbk-wozibk-tisch3
-https://visit.rc3.world/@/rc3_21/ctbk/wozi-eg.json -> ctbk-wozibk-tisch4 -> https://jitsi.rc3.world/ctbk-wozibk-tisch4
-https://visit.rc3.world/@/rc3_21/cyber4EDU/garden.json -> cyber4EDU-campfire -> https://jitsi.rc3.world/cyber4EDU-campfire
-https://visit.rc3.world/@/rc3_21/cyber4EDU/main.json -> cyber4EDU-cyber4EDU_apple -> https://jitsi.rc3.world/cyber4EDU-cyber4EDU_apple
-https://visit.rc3.world/@/rc3_21/cyber4EDU/main.json -> cyber4EDU-cyber4EDU_book -> https://jitsi.rc3.world/cyber4EDU-cyber4EDU_book
-https://visit.rc3.world/@/rc3_21/cyber4EDU/main.json -> cyber4EDU-cyber4EDU_coin -> https://jitsi.rc3.world/cyber4EDU-cyber4EDU_coin
-https://visit.rc3.world/@/rc3_21/cyber4EDU/main.json -> cyber4EDU-cyber4EDU_ring -> https://jitsi.rc3.world/cyber4EDU-cyber4EDU_ring
-https://visit.rc3.world/@/rc3_21/cyberfirestation/house_inside.json -> cyberfirestation-CyberFireStationStueberl -> https://jitsi.rc3.world/cyberfirestation-CyberFireStationStueberl
-https://visit.rc3.world/@/rc3_21/cyberfirestation/house_inside.json -> cyberfirestation-CyberFireStationURoom -> https://jitsi.rc3.world/cyberfirestation-CyberFireStationURoom
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/map.json -> cyberyoga-baum1 -> https://jitsi.rc3.world/cyberyoga-baum1
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/map.json -> cyberyoga-floor-outdoor -> https://jitsi.rc3.world/cyberyoga-floor-outdoor
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/map.json -> cyberyoga-paletten1 -> https://jitsi.rc3.world/cyberyoga-paletten1
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/map.json -> shared-cy-telefon -> https://jitsi.rc3.world/shared-cy-telefon
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/1st/map.json -> cyberyoga-cyberyoga-meeting -> https://jitsi.rc3.world/cyberyoga-cyberyoga-meeting
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/1st/map.json -> cyberyoga-cyberyoga-office -> https://jitsi.rc3.world/cyberyoga-cyberyoga-office
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/1st/map.json -> cyberyoga-cyberyoga-workshop -> https://jitsi.rc3.world/cyberyoga-cyberyoga-workshop
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/1st/map.json -> shared-cy-telefon -> https://jitsi.rc3.world/shared-cy-telefon
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/club/map.json -> cyberyoga-cyberyoga-baellebad -> https://jitsi.rc3.world/cyberyoga-cyberyoga-baellebad
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/club/map.json -> cyberyoga-cyberyoga-bar -> https://jitsi.rc3.world/cyberyoga-cyberyoga-bar
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/club/map.json -> cyberyoga-cyberyoga-dancefloor -> https://jitsi.rc3.world/cyberyoga-cyberyoga-dancefloor
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/club/map.json -> cyberyoga-cyberyoga-popsofa -> https://jitsi.rc3.world/cyberyoga-cyberyoga-popsofa
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/club/map.json -> shared-cy-telefon -> https://jitsi.rc3.world/shared-cy-telefon
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/dungeon/0/map.json -> shared-cy-telefon -> https://jitsi.rc3.world/shared-cy-telefon
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/Garten/map.json -> shared-cy-telefon -> https://jitsi.rc3.world/shared-cy-telefon
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/tree/map.json -> shared-cy-telefon -> https://jitsi.rc3.world/shared-cy-telefon
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/vip/maps.json -> cyberyoga-cyberyoga-vip -> https://jitsi.rc3.world/cyberyoga-cyberyoga-vip
-https://visit.rc3.world/@/rc3_21/cyberyoga/cyberyoga/maps/vip/maps.json -> shared-cy-telefon -> https://jitsi.rc3.world/shared-cy-telefon
-https://visit.rc3.world/@/rc3_21/cyberyoga/main.json -> shared-cy-telefon -> https://jitsi.rc3.world/shared-cy-telefon
-https://visit.rc3.world/@/rc3_21/cyberyoga/waklab/wak-lab.json -> cyberyoga-waklab-jitsy -> https://jitsi.rc3.world/cyberyoga-waklab-jitsy
-https://visit.rc3.world/@/rc3_21/darksystem/main.json -> shared_SelbsthilfeGruppe -> https://jitsi.rc3.world/shared_SelbsthilfeGruppe
-https://visit.rc3.world/@/rc3_21/daslabor/main.json -> daslabor-labor_chillout -> https://jitsi.rc3.world/daslabor-labor_chillout
-https://visit.rc3.world/@/rc3_21/daslabor/main.json -> daslabor-labor_mainroom -> https://jitsi.rc3.world/daslabor-labor_mainroom
-https://visit.rc3.world/@/rc3_21/daslabor/main.json -> daslabor-labor_wc -> https://jitsi.rc3.world/daslabor-labor_wc
-https://visit.rc3.world/@/rc3_21/daslabor/main.json -> daslabor-labor_workshop -> https://jitsi.rc3.world/daslabor-labor_workshop
-https://visit.rc3.world/@/rc3_21/deepcyber/main.json -> deepcyber-deepcyber-central -> https://jitsi.rc3.world/deepcyber-deepcyber-central
-https://visit.rc3.world/@/rc3_21/deepcyber/main.json -> deepcyber-workroom1 -> https://jitsi.rc3.world/deepcyber-workroom1
-https://visit.rc3.world/@/rc3_21/deepcyber/maps/dc-kino-saal1.json -> deepcyber-saal1 -> https://jitsi.rc3.world/deepcyber-saal1
-https://visit.rc3.world/@/rc3_21/deepcyber/maps/dc-kino-saal2.json -> deepcyber-saal2 -> https://jitsi.rc3.world/deepcyber-saal2
-https://visit.rc3.world/@/rc3_21/devbase/main.json -> devbase-/dev/base -> https://jitsi.rc3.world/devbase-/dev/base
-https://visit.rc3.world/@/rc3_21/devlol/dust.json -> devlol-DevLolDust -> https://jitsi.rc3.world/devlol-DevLolDust
-https://visit.rc3.world/@/rc3_21/devlol/vspace.json -> devlol-DevLolMainroom -> https://jitsi.rc3.world/devlol-DevLolMainroom
-https://visit.rc3.world/@/rc3_21/devtal/main.json -> devtal-devtal_chill -> https://jitsi.rc3.world/devtal-devtal_chill
-https://visit.rc3.world/@/rc3_21/devtal/main.json -> devtal-devtal_meeting -> https://jitsi.rc3.world/devtal-devtal_meeting
-https://visit.rc3.world/@/rc3_21/dezentrale/dezentrale_e1.json -> dezentrale-dezentrale_haupt -> https://jitsi.rc3.world/dezentrale-dezentrale_haupt
-https://visit.rc3.world/@/rc3_21/dezentrale/hardware4future.json -> dezentrale-dezentrale_hw4f -> https://jitsi.rc3.world/dezentrale-dezentrale_hw4f
-https://visit.rc3.world/@/rc3_21/dezentrale/main.json -> dezentrale-dezentrale_party -> https://jitsi.rc3.world/dezentrale-dezentrale_party
-https://visit.rc3.world/@/rc3_21/dezentrale/main.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/digitalcourage/main.json -> digitalcourage-bibliothek1 -> https://jitsi.rc3.world/digitalcourage-bibliothek1
-https://visit.rc3.world/@/rc3_21/digitalcourage/main.json -> digitalcourage-bibliothek2 -> https://jitsi.rc3.world/digitalcourage-bibliothek2
-https://visit.rc3.world/@/rc3_21/digitalcourage/main.json -> digitalcourage-marktplatz -> https://jitsi.rc3.world/digitalcourage-marktplatz
-https://visit.rc3.world/@/rc3_21/digitalcourage/main.json -> digitalcourage-shop -> https://jitsi.rc3.world/digitalcourage-shop
-https://visit.rc3.world/@/rc3_21/digitalcourage/main.json -> digitalcourage-studio -> https://jitsi.rc3.world/digitalcourage-studio
-https://visit.rc3.world/@/rc3_21/ebk/maps/ebk_e0.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/ebk/maps/ebk_e1.json -> ebk-Workshop1 -> https://jitsi.rc3.world/ebk-Workshop1
-https://visit.rc3.world/@/rc3_21/ebk/maps/ebk_e1.json -> ebk-Workshop2 -> https://jitsi.rc3.world/ebk-Workshop2
-https://visit.rc3.world/@/rc3_21/ebk/maps/ebk_e1.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/ebk/maps/lab.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/esperanto/main.json -> esperanto-EsperantoBabilejo -> https://jitsi.rc3.world/esperanto-EsperantoBabilejo
-https://visit.rc3.world/@/rc3_21/fairydustforest/labyrinth.json -> fairydustforest-labyrinth -> https://jitsi.rc3.world/fairydustforest-labyrinth
-https://visit.rc3.world/@/rc3_21/fairydustforest/main.json -> fairydustforest-neotopibar -> https://jitsi.rc3.world/fairydustforest-neotopibar
-https://visit.rc3.world/@/rc3_21/fairydustforest/main.json -> fairydustforest-openchaos -> https://jitsi.rc3.world/fairydustforest-openchaos
-https://visit.rc3.world/@/rc3_21/fairydustforest/main.json -> fairydustforest-sofa -> https://jitsi.rc3.world/fairydustforest-sofa
-https://visit.rc3.world/@/rc3_21/fairydustforest/main.json -> fairydustforest-workshop -> https://jitsi.rc3.world/fairydustforest-workshop
-https://visit.rc3.world/@/rc3_21/fairydustforest/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/fairydustforest/main.json -> shared-kloparty -> https://jitsi.rc3.world/shared-kloparty
-https://visit.rc3.world/@/rc3_21/fdroid/main.json -> shared_herewetalk -> https://jitsi.rc3.world/shared_herewetalk
-https://visit.rc3.world/@/rc3_21/fem/main.json -> fem-konfi -> https://jitsi.rc3.world/fem-konfi
-https://visit.rc3.world/@/rc3_21/fem/main.json -> fem-office -> https://jitsi.rc3.world/fem-office
-https://visit.rc3.world/@/rc3_21/fixme/conf.json -> fixme-conf-public -> https://jitsi.rc3.world/fixme-conf-public
-https://visit.rc3.world/@/rc3_21/fixme/conf.json -> fixme-conf-stage -> https://jitsi.rc3.world/fixme-conf-stage
-https://visit.rc3.world/@/rc3_21/fixme/crypto.json -> fixme-crypto -> https://jitsi.rc3.world/fixme-crypto
-https://visit.rc3.world/@/rc3_21/fixme/fixme.json -> shared-VirtualFIXME -> https://jitsi.rc3.world/shared-VirtualFIXME
-https://visit.rc3.world/@/rc3_21/fixme/infraly.json -> fixme-Infraly -> https://jitsi.rc3.world/fixme-Infraly
-https://visit.rc3.world/@/rc3_21/fixme/micro.json -> shared-uberghain -> https://jitsi.rc3.world/shared-uberghain
-https://visit.rc3.world/@/rc3_21/fixme/scitas.json -> fixme-scitas -> https://jitsi.rc3.world/fixme-scitas
-https://visit.rc3.world/@/rc3_21/fixme/scitas.json -> fixme-scitas-break -> https://jitsi.rc3.world/fixme-scitas-break
-https://visit.rc3.world/@/rc3_21/fixme/scitas.json -> fixme-scitas-meeting -> https://jitsi.rc3.world/fixme-scitas-meeting
-https://visit.rc3.world/@/rc3_21/fixme/scitas.json -> fixme-scitas-secret -> https://jitsi.rc3.world/fixme-scitas-secret
-https://visit.rc3.world/@/rc3_21/flipdot/main.json -> flipdot-beExcellent -> https://jitsi.rc3.world/flipdot-beExcellent
-https://visit.rc3.world/@/rc3_21/flipdot/main.json -> flipdot-beExcellent-subroom -> https://jitsi.rc3.world/flipdot-beExcellent-subroom
-https://visit.rc3.world/@/rc3_21/flipdot/main.json -> flipdot-beExcellent-subroom2 -> https://jitsi.rc3.world/flipdot-beExcellent-subroom2
-https://visit.rc3.world/@/rc3_21/flipdot/main.json -> flipdot-flipdot -> https://jitsi.rc3.world/flipdot-flipdot
-https://visit.rc3.world/@/rc3_21/flipdot/space.json -> shared_flipdot -> https://jitsi.rc3.world/shared_flipdot
-https://visit.rc3.world/@/rc3_21/flying-objects/main.json -> shared flying-objects -> https://jitsi.rc3.world/shared flying-objects
-https://visit.rc3.world/@/rc3_21/fossag/interior-side-map.json -> fossag-fossag_konferenz -> https://jitsi.rc3.world/fossag-fossag_konferenz
-https://visit.rc3.world/@/rc3_21/fossag/main.json -> fossag-blue -> https://jitsi.rc3.world/fossag-blue
-https://visit.rc3.world/@/rc3_21/frama/main.json -> frama-Tisch -> https://jitsi.rc3.world/frama-Tisch
-https://visit.rc3.world/@/rc3_21/framasoft/main.json -> framasoft-framavillage -> https://jitsi.rc3.world/framasoft-framavillage
-https://visit.rc3.world/@/rc3_21/framasoft/main.json -> framasoft-hexenkueche -> https://jitsi.rc3.world/framasoft-hexenkueche
-https://visit.rc3.world/@/rc3_21/framasoft/main.json -> framasoft-lovepotion -> https://jitsi.rc3.world/framasoft-lovepotion
-https://visit.rc3.world/@/rc3_21/franconian/aou.json -> franconian-aou_big -> https://jitsi.rc3.world/franconian-aou_big
-https://visit.rc3.world/@/rc3_21/franconian/aou.json -> franconian-aou_small -> https://jitsi.rc3.world/franconian-aou_small
-https://visit.rc3.world/@/rc3_21/franconian/main.json -> franconian-franconianone -> https://jitsi.rc3.world/franconian-franconianone
-https://visit.rc3.world/@/rc3_21/franconian/n2n/n2n_rc3_00.json -> franconian-seminarraum -> https://jitsi.rc3.world/franconian-seminarraum
-https://visit.rc3.world/@/rc3_21/franconian/n2n/n2n_rc3_00.json -> franconian-Sofa-Ecke-01 -> https://jitsi.rc3.world/franconian-Sofa-Ecke-01
-https://visit.rc3.world/@/rc3_21/franconian/n2n/n2n_rc3_00.json -> franconian-Sofa-Ecke-02 -> https://jitsi.rc3.world/franconian-Sofa-Ecke-02
-https://visit.rc3.world/@/rc3_21/franconian/n2n/n2n_rc3_00.json -> franconian-Sofa-Ecke-03 -> https://jitsi.rc3.world/franconian-Sofa-Ecke-03
-https://visit.rc3.world/@/rc3_21/franconian/n2n/n2n_rc3_01.json -> franconian-Sofa-Ecke -> https://jitsi.rc3.world/franconian-Sofa-Ecke
-https://visit.rc3.world/@/rc3_21/franconian/n2n/n2n_rc3_02.json -> franconian-Sofa-Ecke -> https://jitsi.rc3.world/franconian-Sofa-Ecke
-https://visit.rc3.world/@/rc3_21/freeside/bar_with_a_cat.json -> freeside-bar -> https://jitsi.rc3.world/freeside-bar
-https://visit.rc3.world/@/rc3_21/freeside/cccamp2019.json -> freeside-camp -> https://jitsi.rc3.world/freeside-camp
-https://visit.rc3.world/@/rc3_21/freeside/cyberdelia.json -> freeside-bar -> https://jitsi.rc3.world/freeside-bar
-https://visit.rc3.world/@/rc3_21/freeside/emergency_bar.json -> freeside-bar -> https://jitsi.rc3.world/freeside-bar
-https://visit.rc3.world/@/rc3_21/freeside/main.json -> freeside-bar -> https://jitsi.rc3.world/freeside-bar
-https://visit.rc3.world/@/rc3_21/freeside/twink_hole.json -> freeside-bar -> https://jitsi.rc3.world/freeside-bar
-https://visit.rc3.world/@/rc3_21/frubar/iworld/main.json -> frubar-frubar -> https://jitsi.rc3.world/frubar-frubar
-https://visit.rc3.world/@/rc3_21/frubar/main.json -> frubar-frubar -> https://jitsi.rc3.world/frubar-frubar
-https://visit.rc3.world/@/rc3_21/fsfe/main.json -> fsfe-fsfe-meet -> https://jitsi.rc3.world/fsfe-fsfe-meet
-https://visit.rc3.world/@/rc3_21/fsfewomen/main.json -> fsfewomen-fsfewchill -> https://jitsi.rc3.world/fsfewomen-fsfewchill
-https://visit.rc3.world/@/rc3_21/fsfewomen/main.json -> fsfewomen-fsfewtalk -> https://jitsi.rc3.world/fsfewomen-fsfewtalk
-https://visit.rc3.world/@/rc3_21/fsrvi/main.json -> fsrvi-Sofas -> https://jitsi.rc3.world/fsrvi-Sofas
-https://visit.rc3.world/@/rc3_21/gaffa-overflow/main.json -> gaffa-overflow-Main Room -> https://jitsi.rc3.world/gaffa-overflow-Main Room
-https://visit.rc3.world/@/rc3_21/gaffa-overflow/main.json -> gaffa-overflow-Meeting Room -> https://jitsi.rc3.world/gaffa-overflow-Meeting Room
-https://visit.rc3.world/@/rc3_21/gaffa-overflow/main.json -> gaffa-overflow-Meeting Room 2 -> https://jitsi.rc3.world/gaffa-overflow-Meeting Room 2
-https://visit.rc3.world/@/rc3_21/gaffa-overflow/main.json -> gaffa-overflow-Meeting1 -> https://jitsi.rc3.world/gaffa-overflow-Meeting1
-https://visit.rc3.world/@/rc3_21/gelb/main.json -> gelb-c3gelb-bar -> https://jitsi.rc3.world/gelb-c3gelb-bar
-https://visit.rc3.world/@/rc3_21/gelb/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/GeraffelVillage/main.json -> GeraffelVillage-geraffel-village-kitchen -> https://jitsi.rc3.world/GeraffelVillage-geraffel-village-kitchen
-https://visit.rc3.world/@/rc3_21/hacc-muc/main.json -> hacc-muc-hacc_chillout -> https://jitsi.rc3.world/hacc-muc-hacc_chillout
-https://visit.rc3.world/@/rc3_21/hacc-muc/main.json -> hacc-muc-hacc_plenum -> https://jitsi.rc3.world/hacc-muc-hacc_plenum
-https://visit.rc3.world/@/rc3_21/hacc-muc/main.json -> hacc-muc-hacc_stage_cam -> https://jitsi.rc3.world/hacc-muc-hacc_stage_cam
-https://visit.rc3.world/@/rc3_21/hacklabor/Hack_Labor_Work_Adventure/Main001.json -> hacklabor-Hacklabor -> https://jitsi.rc3.world/hacklabor-Hacklabor
-https://visit.rc3.world/@/rc3_21/hacklabor/Hack_Labor_Work_Adventure/Main001.json -> hacklabor-Hacklabor-Flausch -> https://jitsi.rc3.world/hacklabor-Hacklabor-Flausch
-https://visit.rc3.world/@/rc3_21/hacknology/main.json -> shared_blinknlights -> https://jitsi.rc3.world/shared_blinknlights
-https://visit.rc3.world/@/rc3_21/haecksen/maps/linux_Sonja_V1.json -> shared_heyopeops -> https://jitsi.rc3.world/shared_heyopeops
-https://visit.rc3.world/@/rc3_21/haecksen/pandemicLife/raum_1.json -> haecksen-godot -> https://jitsi.rc3.world/haecksen-godot
-https://visit.rc3.world/@/rc3_21/heleum/main.json -> shared_alle_instanzen_jitsi -> https://jitsi.rc3.world/shared_alle_instanzen_jitsi
-https://visit.rc3.world/@/rc3_21/Helferlein/main.json -> shared-helferlein -> https://jitsi.rc3.world/shared-helferlein
-https://visit.rc3.world/@/rc3_21/hell/Bierscheune.json -> hell-Obergeschoss -> https://jitsi.rc3.world/hell-Obergeschoss
-https://visit.rc3.world/@/rc3_21/hell/main.json -> shared-heizhauskatze -> https://jitsi.rc3.world/shared-heizhauskatze
-https://visit.rc3.world/@/rc3_21/hell/main.json -> shared-Lagerfeuerwithfiff -> https://jitsi.rc3.world/shared-Lagerfeuerwithfiff
-https://visit.rc3.world/@/rc3_21/hell/Trixmix_Train/saal.json -> hell-trixmix_bahnhof_kino_sdfoiuwheruionf -> https://jitsi.rc3.world/hell-trixmix_bahnhof_kino_sdfoiuwheruionf
-https://visit.rc3.world/@/rc3_21/hell/Trixmix_Train/wagen1.json -> hell-Trixmix_Wagen_1__lkjdsafjkhsadfkjh -> https://jitsi.rc3.world/hell-Trixmix_Wagen_1__lkjdsafjkhsadfkjh
-https://visit.rc3.world/@/rc3_21/himmel/main.json -> himmel-Aquarium -> https://jitsi.rc3.world/himmel-Aquarium
-https://visit.rc3.world/@/rc3_21/himmel/main.json -> himmel-heaven-backoffice-chillout -> https://jitsi.rc3.world/himmel-heaven-backoffice-chillout
-https://visit.rc3.world/@/rc3_21/himmel/main.json -> himmel-heaven-backoffice-work -> https://jitsi.rc3.world/himmel-heaven-backoffice-work
-https://visit.rc3.world/@/rc3_21/himmel/main.json -> himmel-heaven-hackcenter -> https://jitsi.rc3.world/himmel-heaven-hackcenter
-https://visit.rc3.world/@/rc3_21/hoc/main.json -> hoc-fuck_dome -> https://jitsi.rc3.world/hoc-fuck_dome
-https://visit.rc3.world/@/rc3_21/hoc/main.json -> hoc-fuck_summoning -> https://jitsi.rc3.world/hoc-fuck_summoning
-https://visit.rc3.world/@/rc3_21/horny_jail/ballpit.json -> horny_jail-Cuddlebutt -> https://jitsi.rc3.world/horny_jail-Cuddlebutt
-https://visit.rc3.world/@/rc3_21/horny_jail/connection_hub.json -> horny_jail-nature_reserve -> https://jitsi.rc3.world/horny_jail-nature_reserve
-https://visit.rc3.world/@/rc3_21/horny_jail/Darkroom.json -> sharedDarkroom -> https://jitsi.rc3.world/sharedDarkroom
-https://visit.rc3.world/@/rc3_21/horny_jail/main.json -> horny_jail-Cuddlebutt -> https://jitsi.rc3.world/horny_jail-Cuddlebutt
-https://visit.rc3.world/@/rc3_21/horny_jail/main.json -> horny_jail-dome_jitsi -> https://jitsi.rc3.world/horny_jail-dome_jitsi
-https://visit.rc3.world/@/rc3_21/hsmr/bonfire.json -> hsmr-lagerfeuerfuehl -> https://jitsi.rc3.world/hsmr-lagerfeuerfuehl
-https://visit.rc3.world/@/rc3_21/hsmr/c4-fb12.json -> hsmr-dsg-essen -> https://jitsi.rc3.world/hsmr-dsg-essen
-https://visit.rc3.world/@/rc3_21/hsmr/main.json -> hsmr-hsmr-carpet-1 -> https://jitsi.rc3.world/hsmr-hsmr-carpet-1
-https://visit.rc3.world/@/rc3_21/hsmr/main.json -> hsmr-hsmr-carpet-2 -> https://jitsi.rc3.world/hsmr-hsmr-carpet-2
-https://visit.rc3.world/@/rc3_21/hsmr/main.json -> hsmr-hsmr-comfy-corner -> https://jitsi.rc3.world/hsmr-hsmr-comfy-corner
-https://visit.rc3.world/@/rc3_21/hsmr/main.json -> hsmr-hsmr-conference-room -> https://jitsi.rc3.world/hsmr-hsmr-conference-room
-https://visit.rc3.world/@/rc3_21/hsmr/main.json -> hsmr-hsmr-coworking-room -> https://jitsi.rc3.world/hsmr-hsmr-coworking-room
-https://visit.rc3.world/@/rc3_21/hsmr/main.json -> hsmr-hsmr-hack-bar -> https://jitsi.rc3.world/hsmr-hsmr-hack-bar
-https://visit.rc3.world/@/rc3_21/hsmr/main.json -> hsmr-hsmr-working-room -> https://jitsi.rc3.world/hsmr-hsmr-working-room
-https://visit.rc3.world/@/rc3_21/hswaw/main.json -> hswaw-bgpwtf -> https://jitsi.rc3.world/hswaw-bgpwtf
-https://visit.rc3.world/@/rc3_21/hswaw/main.json -> hswaw-hackcenter -> https://jitsi.rc3.world/hswaw-hackcenter
-https://visit.rc3.world/@/rc3_21/hswaw/main.json -> hswaw-kuka -> https://jitsi.rc3.world/hswaw-kuka
-https://visit.rc3.world/@/rc3_21/icmp/main.json -> icmp-rICMPbar -> https://jitsi.rc3.world/icmp-rICMPbar
-https://visit.rc3.world/@/rc3_21/icmp/main.json -> icmp-rICMPworkshop -> https://jitsi.rc3.world/icmp-rICMPworkshop
-https://visit.rc3.world/@/rc3_21/iconetfoundation/main.json -> iconetfoundation-big1 -> https://jitsi.rc3.world/iconetfoundation-big1
-https://visit.rc3.world/@/rc3_21/iconetfoundation/main.json -> iconetfoundation-hint -> https://jitsi.rc3.world/iconetfoundation-hint
-https://visit.rc3.world/@/rc3_21/iconetfoundation/main.json -> iconetfoundation-hint -> https://jitsi.rc3.world/iconetfoundation-hint
-https://visit.rc3.world/@/rc3_21/iconetfoundation/main.json -> iconetfoundation-hint -> https://jitsi.rc3.world/iconetfoundation-hint
-https://visit.rc3.world/@/rc3_21/infra/main.json -> infra-infraqa -> https://jitsi.rc3.world/infra-infraqa
-https://visit.rc3.world/@/rc3_21/infra/main.json -> infra-readyroom -> https://jitsi.rc3.world/infra-readyroom
-https://visit.rc3.world/@/rc3_21/kalkspace/main.json -> kalkspace-Esstisch -> https://jitsi.rc3.world/kalkspace-Esstisch
-https://visit.rc3.world/@/rc3_21/kinkygeeks/main.json -> kinkygeeks-kinkyGeeks -> https://jitsi.rc3.world/kinkygeeks-kinkyGeeks
-https://visit.rc3.world/@/rc3_21/kinkygeeks/playroom.json -> kinkygeeks-cage -> https://jitsi.rc3.world/kinkygeeks-cage
-https://visit.rc3.world/@/rc3_21/kinkygeeks/playroom.json -> kinkygeeks-darkroom -> https://jitsi.rc3.world/kinkygeeks-darkroom
-https://visit.rc3.world/@/rc3_21/labitat/main.json -> shared-Sofa -> https://jitsi.rc3.world/shared-Sofa
-https://visit.rc3.world/@/rc3_21/labitat/main.json -> shared-TronLab -> https://jitsi.rc3.world/shared-TronLab
-https://visit.rc3.world/@/rc3_21/lebkuchis/cellar.json -> lebkuchis-lebkuchis_cellar -> https://jitsi.rc3.world/lebkuchis-lebkuchis_cellar
-https://visit.rc3.world/@/rc3_21/lebkuchis/main.json -> lebkuchis-gluehwein -> https://jitsi.rc3.world/lebkuchis-gluehwein
-https://visit.rc3.world/@/rc3_21/lebkuchis/main.json -> lebkuchis-kueche -> https://jitsi.rc3.world/lebkuchis-kueche
-https://visit.rc3.world/@/rc3_21/lebkuchis/main.json -> lebkuchis-lebkuchen -> https://jitsi.rc3.world/lebkuchis-lebkuchen
-https://visit.rc3.world/@/rc3_21/lebkuchis/main.json -> lebkuchis-zuckerstange -> https://jitsi.rc3.world/lebkuchis-zuckerstange
-https://visit.rc3.world/@/rc3_21/leinestelle511/leitstelle511/hackcenter/main.json -> leinestelle511-leitstellehackcenter1 -> https://jitsi.rc3.world/leinestelle511-leitstellehackcenter1
-https://visit.rc3.world/@/rc3_21/leinestelle511/leitstelle511/hackcenter/main.json -> leinestelle511-leitstellehackcenter2 -> https://jitsi.rc3.world/leinestelle511-leitstellehackcenter2
-https://visit.rc3.world/@/rc3_21/leinestelle511/leitstelle511/hackcenter/main.json -> leinestelle511-leitstellehackcenter3 -> https://jitsi.rc3.world/leinestelle511-leitstellehackcenter3
-https://visit.rc3.world/@/rc3_21/leinestelle511/leitstelle511/hackcenter/main.json -> leinestelle511-leitstellehackcenter4 -> https://jitsi.rc3.world/leinestelle511-leitstellehackcenter4
-https://visit.rc3.world/@/rc3_21/leinestelle511/leitstelle511/main.json -> leinestelle511-leitstellenmeetup -> https://jitsi.rc3.world/leinestelle511-leitstellenmeetup
-https://visit.rc3.world/@/rc3_21/leinestelle511/leitstelle511/main.json -> leinestelle511-nebenstellenmeetup -> https://jitsi.rc3.world/leinestelle511-nebenstellenmeetup
-https://visit.rc3.world/@/rc3_21/lobby/chaoszone.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/lobby/infodesk.json -> lobby-infodesk -> https://jitsi.rc3.world/lobby-infodesk
-https://visit.rc3.world/@/rc3_21/lobby/infodesk.json -> lobby-infodesk -> https://jitsi.rc3.world/lobby-infodesk
-https://visit.rc3.world/@/rc3_21/lobby/infodesk.json -> lobby-infodesk -> https://jitsi.rc3.world/lobby-infodesk
-https://visit.rc3.world/@/rc3_21/lobby/infodesk.json -> lobby-memberdesk -> https://jitsi.rc3.world/lobby-memberdesk
-https://visit.rc3.world/@/rc3_21/lobby/kunstinsel.json -> lobby-ist-das-kunst-oder-kann-das-weg -> https://jitsi.rc3.world/lobby-ist-das-kunst-oder-kann-das-weg
-https://visit.rc3.world/@/rc3_21/lobby/lounge-hub.json -> lobby-fairyhub -> https://jitsi.rc3.world/lobby-fairyhub
-https://visit.rc3.world/@/rc3_21/loc/main.json -> loc-Helpdesk -> https://jitsi.rc3.world/loc-Helpdesk
-https://visit.rc3.world/@/rc3_21/lockpick/keller2.json -> lockpick-muccc-muccc%20biergarten -> https://jitsi.rc3.world/lockpick-muccc-muccc%20biergarten
-https://visit.rc3.world/@/rc3_21/lockpick/main.json -> shared_ssdev -> https://jitsi.rc3.world/shared_ssdev
-https://visit.rc3.world/@/rc3_21/lounge/drogenhoehle.json -> lounge-drogen baustamm 2 -> https://jitsi.rc3.world/lounge-drogen baustamm 2
-https://visit.rc3.world/@/rc3_21/lounge/drogenhoehle.json -> lounge-drogen jitsi 2 -> https://jitsi.rc3.world/lounge-drogen jitsi 2
-https://visit.rc3.world/@/rc3_21/lounge/main.json -> lounge-jungle baradiesvogel -> https://jitsi.rc3.world/lounge-jungle baradiesvogel
-https://visit.rc3.world/@/rc3_21/lounge/main.json -> lounge-jungle baustamm 1 -> https://jitsi.rc3.world/lounge-jungle baustamm 1
-https://visit.rc3.world/@/rc3_21/lounge/main.json -> lounge-jungle baustamm 2 -> https://jitsi.rc3.world/lounge-jungle baustamm 2
-https://visit.rc3.world/@/rc3_21/lounge/main.json -> lounge-jungle dance floor -> https://jitsi.rc3.world/lounge-jungle dance floor
-https://visit.rc3.world/@/rc3_21/lounge/main.json -> lounge-jungle super secret -> https://jitsi.rc3.world/lounge-jungle super secret
-https://visit.rc3.world/@/rc3_21/lounge/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/maglab/main.json -> maglab-maglab-roundtable -> https://jitsi.rc3.world/maglab-maglab-roundtable
-https://visit.rc3.world/@/rc3_21/mainframe/main.json -> mainframe-mainframe -> https://jitsi.rc3.world/mainframe-mainframe
-https://visit.rc3.world/@/rc3_21/math/main.json -> shared-mathguys -> https://jitsi.rc3.world/shared-mathguys
-https://visit.rc3.world/@/rc3_21/mch2022/main.json -> mch2022-mch2021 -> https://jitsi.rc3.world/mch2022-mch2021
-https://visit.rc3.world/@/rc3_21/Mehlverkehr/main.json -> Mehlverkehr-mehlverkehr -> https://jitsi.rc3.world/Mehlverkehr-mehlverkehr
-https://visit.rc3.world/@/rc3_21/Mehlverkehr/sdhq2020/main.json -> Mehlverkehr-kaffeepause-SdHQ -> https://jitsi.rc3.world/Mehlverkehr-kaffeepause-SdHQ
-https://visit.rc3.world/@/rc3_21/Metalab/main.json -> Metalab-garden_couch1 -> https://jitsi.rc3.world/Metalab-garden_couch1
-https://visit.rc3.world/@/rc3_21/Metalab/main.json -> Metalab-garden_couch2 -> https://jitsi.rc3.world/Metalab-garden_couch2
-https://visit.rc3.world/@/rc3_21/Metalab/main.json -> Metalab-garden_couch3 -> https://jitsi.rc3.world/Metalab-garden_couch3
-https://visit.rc3.world/@/rc3_21/Metalab/main.json -> Metalab-metadome -> https://jitsi.rc3.world/Metalab-metadome
-https://visit.rc3.world/@/rc3_21/Metalab/map.json -> Metalab-baellebad -> https://jitsi.rc3.world/Metalab-baellebad
-https://visit.rc3.world/@/rc3_21/Metalab/map.json -> Metalab-bibliothek -> https://jitsi.rc3.world/Metalab-bibliothek
-https://visit.rc3.world/@/rc3_21/Metalab/map.json -> Metalab-hauptraum1 -> https://jitsi.rc3.world/Metalab-hauptraum1
-https://visit.rc3.world/@/rc3_21/Metalab/map.json -> Metalab-hauptraum2 -> https://jitsi.rc3.world/Metalab-hauptraum2
-https://visit.rc3.world/@/rc3_21/Metalab/map.json -> Metalab-hm -> https://jitsi.rc3.world/Metalab-hm
-https://visit.rc3.world/@/rc3_21/Metalab/map.json -> Metalab-lazzzzzor -> https://jitsi.rc3.world/Metalab-lazzzzzor
-https://visit.rc3.world/@/rc3_21/Metalab/map.json -> Metalab-sitzklo -> https://jitsi.rc3.world/Metalab-sitzklo
-https://visit.rc3.world/@/rc3_21/Metalab/map.json -> Metalab-wel -> https://jitsi.rc3.world/Metalab-wel
-https://visit.rc3.world/@/rc3_21/MISChaufen/indoor.json -> MISChaufen-MISCHaufen -> https://jitsi.rc3.world/MISChaufen-MISCHaufen
-https://visit.rc3.world/@/rc3_21/Moabit/main.json -> Moabit- -> https://jitsi.rc3.world/Moabit-
-https://visit.rc3.world/@/rc3_21/moneybin/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/moneybin/maps/10.json -> moneybin-BremenRoom -> https://jitsi.rc3.world/moneybin-BremenRoom
-https://visit.rc3.world/@/rc3_21/moneybin/maps/12.json -> moneybin-Sitzecke -> https://jitsi.rc3.world/moneybin-Sitzecke
-https://visit.rc3.world/@/rc3_21/muccc/keller.json -> muccc-card10 -> https://jitsi.rc3.world/muccc-card10
-https://visit.rc3.world/@/rc3_21/muccc/keller.json -> muccc-card10helpdesk -> https://jitsi.rc3.world/muccc-card10helpdesk
-https://visit.rc3.world/@/rc3_21/muccc/keller.json -> muccc-muc3Lounge -> https://jitsi.rc3.world/muccc-muc3Lounge
-https://visit.rc3.world/@/rc3_21/muccc/main.json -> muccc-muccc ACAB -> https://jitsi.rc3.world/muccc-muccc ACAB
-https://visit.rc3.world/@/rc3_21/muccc/main.json -> muccc-muccc biergarten -> https://jitsi.rc3.world/muccc-muccc biergarten
-https://visit.rc3.world/@/rc3_21/muccc/main.json -> muccc-muccc couches -> https://jitsi.rc3.world/muccc-muccc couches
-https://visit.rc3.world/@/rc3_21/muccc/main.json -> muccc-muccc Hauptraum -> https://jitsi.rc3.world/muccc-muccc Hauptraum
-https://visit.rc3.world/@/rc3_21/muccc/main.json -> muccc-muccc printer -> https://jitsi.rc3.world/muccc-muccc printer
-https://visit.rc3.world/@/rc3_21/muccc/main.json -> muccc-muccc session -> https://jitsi.rc3.world/muccc-muccc session
-https://visit.rc3.world/@/rc3_21/muccc/rattennest.json -> muccc-hashpipe -> https://jitsi.rc3.world/muccc-hashpipe
-https://visit.rc3.world/@/rc3_21/muccc/rattennest.json -> muccc-mucccRattennest -> https://jitsi.rc3.world/muccc-mucccRattennest
-https://visit.rc3.world/@/rc3_21/Multigeiger/main.json -> Multigeiger-multigeiger-meetup-bar-east -> https://jitsi.rc3.world/Multigeiger-multigeiger-meetup-bar-east
-https://visit.rc3.world/@/rc3_21/Multigeiger/main.json -> Multigeiger-multigeiger-meetup-bar-west -> https://jitsi.rc3.world/Multigeiger-multigeiger-meetup-bar-west
-https://visit.rc3.world/@/rc3_21/mv/hgw/straze.json -> mv-straze_bar -> https://jitsi.rc3.world/mv-straze_bar
-https://visit.rc3.world/@/rc3_21/mv/hgw/straze.json -> mv-straze_bonfire -> https://jitsi.rc3.world/mv-straze_bonfire
-https://visit.rc3.world/@/rc3_21/nerdhof/barnDisco.json -> nerdhof-baelleBad -> https://jitsi.rc3.world/nerdhof-baelleBad
-https://visit.rc3.world/@/rc3_21/nerdhof/barnDisco.json -> nerdhof-barnDisco -> https://jitsi.rc3.world/nerdhof-barnDisco
-https://visit.rc3.world/@/rc3_21/nerdhof/dungeon.json -> nerdhof-bar -> https://jitsi.rc3.world/nerdhof-bar
-https://visit.rc3.world/@/rc3_21/nerdhof/main.json -> nerdhof-Terrace -> https://jitsi.rc3.world/nerdhof-Terrace
-https://visit.rc3.world/@/rc3_21/nerdhof/main.json -> nerdhof-Veranda -> https://jitsi.rc3.world/nerdhof-Veranda
-https://visit.rc3.world/@/rc3_21/nerdraum/main.json -> shared-Nerdraum -> https://jitsi.rc3.world/shared-Nerdraum
-https://visit.rc3.world/@/rc3_21/nerdraum/maps/nerdraum/nerdraum.json -> nerdraum-ChillZone -> https://jitsi.rc3.world/nerdraum-ChillZone
-https://visit.rc3.world/@/rc3_21/nerdraum/maps/nerdraum/nerdraum.json -> nerdraum-MeetingRoom -> https://jitsi.rc3.world/nerdraum-MeetingRoom
-https://visit.rc3.world/@/rc3_21/nerdraum/maps/nerdraum/sendezentrum.json -> nerdraum-ChillZone -> https://jitsi.rc3.world/nerdraum-ChillZone
-https://visit.rc3.world/@/rc3_21/nerdraum/maps/nerdraum/sendezentrum.json -> nerdraum-MeetingRoom -> https://jitsi.rc3.world/nerdraum-MeetingRoom
-https://visit.rc3.world/@/rc3_21/neros-realm/colosseum.json -> shared-burning-market -> https://jitsi.rc3.world/shared-burning-market
-https://visit.rc3.world/@/rc3_21/neros-realm/market.json -> shared-burning-market -> https://jitsi.rc3.world/shared-burning-market
-https://visit.rc3.world/@/rc3_21/neros-realm/market.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/nixmuss/main.json -> nixmuss-ChillZone -> https://jitsi.rc3.world/nixmuss-ChillZone
-https://visit.rc3.world/@/rc3_21/nixos/main.json -> shared_nixos_noobs -> https://jitsi.rc3.world/shared_nixos_noobs
-https://visit.rc3.world/@/rc3_21/nullaufeins/main.json -> shared-nullaufeins -> https://jitsi.rc3.world/shared-nullaufeins
-https://visit.rc3.world/@/rc3_21/numberwang/main.json -> numberwang-conference -> https://jitsi.rc3.world/numberwang-conference
-https://visit.rc3.world/@/rc3_21/openlabaux/main.json -> openlabaux-OpenLabKitchen -> https://jitsi.rc3.world/openlabaux-OpenLabKitchen
-https://visit.rc3.world/@/rc3_21/openlabaux/main.json -> shared-OpenLabMain -> https://jitsi.rc3.world/shared-OpenLabMain
-https://visit.rc3.world/@/rc3_21/OpenScienceSCC/main.json -> OpenScienceSCC-osscc1 -> https://jitsi.rc3.world/OpenScienceSCC-osscc1
-https://visit.rc3.world/@/rc3_21/osm/main.json -> osm-Fireplace -> https://jitsi.rc3.world/osm-Fireplace
-https://visit.rc3.world/@/rc3_21/osm/main.json -> osm-OSM-Restaurant -> https://jitsi.rc3.world/osm-OSM-Restaurant
-https://visit.rc3.world/@/rc3_21/osm/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/osm/main.json -> shared-kloparty -> https://jitsi.rc3.world/shared-kloparty
-https://visit.rc3.world/@/rc3_21/ots/main.json -> ots-opentechschool -> https://jitsi.rc3.world/ots-opentechschool
-https://visit.rc3.world/@/rc3_21/ots/main.json -> shared-nullaufeins -> https://jitsi.rc3.world/shared-nullaufeins
-https://visit.rc3.world/@/rc3_21/PGspace/cellar.json -> PGspace-KidspacePhone -> https://jitsi.rc3.world/PGspace-KidspacePhone
-https://visit.rc3.world/@/rc3_21/PGspace/Finn/finn.json -> PGspace-Finn -> https://jitsi.rc3.world/PGspace-Finn
-https://visit.rc3.world/@/rc3_21/PGspace/house.json -> PGspace-KidspaceDinningRoom -> https://jitsi.rc3.world/PGspace-KidspaceDinningRoom
-https://visit.rc3.world/@/rc3_21/PGspace/house.json -> PGspace-KidspaceLibrary -> https://jitsi.rc3.world/PGspace-KidspaceLibrary
-https://visit.rc3.world/@/rc3_21/PGspace/house.json -> PGspace-KidspacePhone -> https://jitsi.rc3.world/PGspace-KidspacePhone
-https://visit.rc3.world/@/rc3_21/PGspace/kidsworld.json -> PGspace-KidspaceForest -> https://jitsi.rc3.world/PGspace-KidspaceForest
-https://visit.rc3.world/@/rc3_21/PGspace/kidsworld.json -> PGspace-KidspacePhone -> https://jitsi.rc3.world/PGspace-KidspacePhone
-https://visit.rc3.world/@/rc3_21/PGspace/main.json -> PGspace-KidscapeBallbath -> https://jitsi.rc3.world/PGspace-KidscapeBallbath
-https://visit.rc3.world/@/rc3_21/PGspace/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/PGspace/Trixmix/trixmix.json -> PGspace-trickmisch -> https://jitsi.rc3.world/PGspace-trickmisch
-https://visit.rc3.world/@/rc3_21/PGspace/Trixmix/trixmix.json -> PGspace-trixmix -> https://jitsi.rc3.world/PGspace-trixmix
-https://visit.rc3.world/@/rc3_21/poc/dach.json -> poc-PoC_Raucherbereich -> https://jitsi.rc3.world/poc-PoC_Raucherbereich
-https://visit.rc3.world/@/rc3_21/poc/main.json -> poc-PoC_Backstage -> https://jitsi.rc3.world/poc-PoC_Backstage
-https://visit.rc3.world/@/rc3_21/portcarl/main.json -> portcarl-portcarl-backstage-bar -> https://jitsi.rc3.world/portcarl-portcarl-backstage-bar
-https://visit.rc3.world/@/rc3_21/portcarl/main.json -> portcarl-portcarlplenum -> https://jitsi.rc3.world/portcarl-portcarlplenum
-https://visit.rc3.world/@/rc3_21/portcarl/wald.json -> portcarl-portcarl-lagerfeuer -> https://jitsi.rc3.world/portcarl-portcarl-lagerfeuer
-https://visit.rc3.world/@/rc3_21/privacyweek/main.json -> privacyweek-dome -> https://jitsi.rc3.world/privacyweek-dome
-https://visit.rc3.world/@/rc3_21/privacyweek/main.json -> privacyweek-dome -> https://jitsi.rc3.world/privacyweek-dome
-https://visit.rc3.world/@/rc3_21/privacyweek/main.json -> privacyweek-dome0 -> https://jitsi.rc3.world/privacyweek-dome0
-https://visit.rc3.world/@/rc3_21/privacyweek/main.json -> privacyweek-workshop1 -> https://jitsi.rc3.world/privacyweek-workshop1
-https://visit.rc3.world/@/rc3_21/privacyweek/OG1.json -> privacyweek-Pausenraum -> https://jitsi.rc3.world/privacyweek-Pausenraum
-https://visit.rc3.world/@/rc3_21/prost/main.json -> prost-Baellebad -> https://jitsi.rc3.world/prost-Baellebad
-https://visit.rc3.world/@/rc3_21/prost/main.json -> prost-Dachsofa -> https://jitsi.rc3.world/prost-Dachsofa
-https://visit.rc3.world/@/rc3_21/radiotipi/main.json -> radiotipi-radiotipi -> https://jitsi.rc3.world/radiotipi-radiotipi
-https://visit.rc3.world/@/rc3_21/rcc/cave.json -> rcc-rosasclubcave -> https://jitsi.rc3.world/rcc-rosasclubcave
-https://visit.rc3.world/@/rc3_21/readventures/main.json -> readventures-reverse-engineering-adventures -> https://jitsi.rc3.world/readventures-reverse-engineering-adventures
-https://visit.rc3.world/@/rc3_21/realtheorie/main.json -> realtheorie-RT_meet -> https://jitsi.rc3.world/realtheorie-RT_meet
-https://visit.rc3.world/@/rc3_21/rust/main.json -> rust-rustAssembly -> https://jitsi.rc3.world/rust-rustAssembly
-https://visit.rc3.world/@/rc3_21/RZL/main.json -> RZL-RaumZeitLabor -> https://jitsi.rc3.world/RZL-RaumZeitLabor
-https://visit.rc3.world/@/rc3_21/samatrix/main.json -> samatrix-sama-chillout -> https://jitsi.rc3.world/samatrix-sama-chillout
-https://visit.rc3.world/@/rc3_21/samatrix/main.json -> samatrix-sama-tresen -> https://jitsi.rc3.world/samatrix-sama-tresen
-https://visit.rc3.world/@/rc3_21/samatrix/map-trix.json -> samatrix-trix-fire -> https://jitsi.rc3.world/samatrix-trix-fire
-https://visit.rc3.world/@/rc3_21/schenklradio/main.json -> schenklradio-SchenklRadio -> https://jitsi.rc3.world/schenklradio-SchenklRadio
-https://visit.rc3.world/@/rc3_21/schokoladensouffle/main.json -> schokoladensouffle-lobby -> https://jitsi.rc3.world/schokoladensouffle-lobby
-https://visit.rc3.world/@/rc3_21/sendezentrum/main.json -> sendezentrum-sz-podcastpatinnen -> https://jitsi.rc3.world/sendezentrum-sz-podcastpatinnen
-https://visit.rc3.world/@/rc3_21/sendezentrum/main.json -> sendezentrum-sz-sendegarten -> https://jitsi.rc3.world/sendezentrum-sz-sendegarten
-https://visit.rc3.world/@/rc3_21/sendezentrum/main.json -> sendezentrum-sz-table1 -> https://jitsi.rc3.world/sendezentrum-sz-table1
-https://visit.rc3.world/@/rc3_21/sendezentrum/main.json -> sendezentrum-sz-table2 -> https://jitsi.rc3.world/sendezentrum-sz-table2
-https://visit.rc3.world/@/rc3_21/sendezentrum/main.json -> sendezentrum-sz-table3 -> https://jitsi.rc3.world/sendezentrum-sz-table3
-https://visit.rc3.world/@/rc3_21/sendezentrum/main.json -> sendezentrum-sz-table4 -> https://jitsi.rc3.world/sendezentrum-sz-table4
-https://visit.rc3.world/@/rc3_21/sendezentrum/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/siliconforest/main.json -> siliconforest-siliconforest -> https://jitsi.rc3.world/siliconforest-siliconforest
-https://visit.rc3.world/@/rc3_21/silpion/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/silpion/main.json -> shared-kloparty -> https://jitsi.rc3.world/shared-kloparty
-https://visit.rc3.world/@/rc3_21/silpion/main.json -> silpion-silpion-blackfloor -> https://jitsi.rc3.world/silpion-silpion-blackfloor
-https://visit.rc3.world/@/rc3_21/silpion/main.json -> silpion-silpion-konfi6og -> https://jitsi.rc3.world/silpion-silpion-konfi6og
-https://visit.rc3.world/@/rc3_21/silpion/main.json -> silpion-silpion-oliver -> https://jitsi.rc3.world/silpion-silpion-oliver
-https://visit.rc3.world/@/rc3_21/silpion/main.json -> silpion-silpion-patrick -> https://jitsi.rc3.world/silpion-silpion-patrick
-https://visit.rc3.world/@/rc3_21/silpion/main.json -> silpion-silpion-raucherraum -> https://jitsi.rc3.world/silpion-silpion-raucherraum
-https://visit.rc3.world/@/rc3_21/spacebi/main.json -> spacebi-spacebi_wc -> https://jitsi.rc3.world/spacebi-spacebi_wc
-https://visit.rc3.world/@/rc3_21/spacebi/main.json -> spacebi-spacebi_wk1 -> https://jitsi.rc3.world/spacebi-spacebi_wk1
-https://visit.rc3.world/@/rc3_21/spacebi/main.json -> spacebi-spacebi_wk2 -> https://jitsi.rc3.world/spacebi-spacebi_wk2
-https://visit.rc3.world/@/rc3_21/spacebi/main.json -> spacebi-spacebi_wohnzimmer -> https://jitsi.rc3.world/spacebi-spacebi_wohnzimmer
-https://visit.rc3.world/@/rc3_21/space-left/main.json -> space-left-space_left_main_room -> https://jitsi.rc3.world/space-left-space_left_main_room
-https://visit.rc3.world/@/rc3_21/stratum0/main.json -> stratum0-kitchen -> https://jitsi.rc3.world/stratum0-kitchen
-https://visit.rc3.world/@/rc3_21/swabian-embassy/main.json -> swabian-embassy-swabianembassy-biergarten -> https://jitsi.rc3.world/swabian-embassy-swabianembassy-biergarten
-https://visit.rc3.world/@/rc3_21/tabvillage/main.json -> tabvillage-stuhlkreis -> https://jitsi.rc3.world/tabvillage-stuhlkreis
-https://visit.rc3.world/@/rc3_21/tabvillage/main.json -> tabvillage-telefon -> https://jitsi.rc3.world/tabvillage-telefon
-https://visit.rc3.world/@/rc3_21/telnet/main.json -> telnet-telnet-tresen -> https://jitsi.rc3.world/telnet-telnet-tresen
-https://visit.rc3.world/@/rc3_21/TMS/main.json -> TMS-SDRCTS_BY_TMS -> https://jitsi.rc3.world/TMS-SDRCTS_BY_TMS
-https://visit.rc3.world/@/rc3_21/tomorrowland/main.json -> tomorrowland-gaming -> https://jitsi.rc3.world/tomorrowland-gaming
-https://visit.rc3.world/@/rc3_21/tomorrowland/main.json -> tomorrowland-shards -> https://jitsi.rc3.world/tomorrowland-shards
-https://visit.rc3.world/@/rc3_21/toppoint/main.json -> shared-GlobalPhonebooth -> https://jitsi.rc3.world/shared-GlobalPhonebooth
-https://visit.rc3.world/@/rc3_21/toppoint/main.json -> shared-kloparty -> https://jitsi.rc3.world/shared-kloparty
-https://visit.rc3.world/@/rc3_21/toppoint/main.json -> toppoint-intercom -> https://jitsi.rc3.world/toppoint-intercom
-https://visit.rc3.world/@/rc3_21/toppoint/main.json -> toppoint-toppoint_lounge -> https://jitsi.rc3.world/toppoint-toppoint_lounge
-https://visit.rc3.world/@/rc3_21/tox/floor01/map.json -> tox-cafe_floor01 -> https://jitsi.rc3.world/tox-cafe_floor01
-https://visit.rc3.world/@/rc3_21/tox/main.json -> tox-tox_cafe -> https://jitsi.rc3.world/tox-tox_cafe
-https://visit.rc3.world/@/rc3_21/tox/main.json -> tox-tox_cafe -> https://jitsi.rc3.world/tox-tox_cafe
-https://visit.rc3.world/@/rc3_21/unhb/hinterzimmer.json -> unhb-hinterzimmer -> https://jitsi.rc3.world/unhb-hinterzimmer
-https://visit.rc3.world/@/rc3_21/unhb/inside.json -> unhb-baellebad -> https://jitsi.rc3.world/unhb-baellebad
-https://visit.rc3.world/@/rc3_21/unhb/inside.json -> unhb-space -> https://jitsi.rc3.world/unhb-space
-https://visit.rc3.world/@/rc3_21/unhb/inside.json -> unhb-tisch-kino -> https://jitsi.rc3.world/unhb-tisch-kino
-https://visit.rc3.world/@/rc3_21/unhb/inside.json -> unhb-unhb_garten -> https://jitsi.rc3.world/unhb-unhb_garten
-https://visit.rc3.world/@/rc3_21/unhb/inside.json -> unhb-unhb_office -> https://jitsi.rc3.world/unhb-unhb_office
-https://visit.rc3.world/@/rc3_21/unhb/main.json -> unhb-lagerfeuer -> https://jitsi.rc3.world/unhb-lagerfeuer
-https://visit.rc3.world/@/rc3_21/unhb/main.json -> unhb-winkekatze -> https://jitsi.rc3.world/unhb-winkekatze
-https://visit.rc3.world/@/rc3_21/V7/main.json -> V7-inderstadt -> https://jitsi.rc3.world/V7-inderstadt
-https://visit.rc3.world/@/rc3_21/vatican-embassy/main.json -> shared-vatican-embassy -> https://jitsi.rc3.world/shared-vatican-embassy
-https://visit.rc3.world/@/rc3_21/vbhf/main.json -> vbhf-vbhf-couch -> https://jitsi.rc3.world/vbhf-vbhf-couch
-https://visit.rc3.world/@/rc3_21/vbhf/main.json -> vbhf-vbhf-tische -> https://jitsi.rc3.world/vbhf-vbhf-tische
-https://visit.rc3.world/@/rc3_21/vbhf/main.json -> vbhf-vbhf-wz1 -> https://jitsi.rc3.world/vbhf-vbhf-wz1
-https://visit.rc3.world/@/rc3_21/vbhf/main.json -> vbhf-vbhf-wz2 -> https://jitsi.rc3.world/vbhf-vbhf-wz2
-https://visit.rc3.world/@/rc3_21/warpzone/main.json -> warpzone-chaos-lounge -> https://jitsi.rc3.world/warpzone-chaos-lounge
-https://visit.rc3.world/@/rc3_21/WhistleblowVillage/collateral_cave.json -> WhistleblowVillage-CampfireChat -> https://jitsi.rc3.world/WhistleblowVillage-CampfireChat
-https://visit.rc3.world/@/rc3_21/WhistleblowVillage/main.json -> shared-GlobalPhonebook -> https://jitsi.rc3.world/shared-GlobalPhonebook
-https://visit.rc3.world/@/rc3_21/WhistleblowVillage/main.json -> shared-kloparty -> https://jitsi.rc3.world/shared-kloparty
-https://visit.rc3.world/@/rc3_21/WhistleblowVillage/main.json -> WhistleblowVillage-BeachCampfire -> https://jitsi.rc3.world/WhistleblowVillage-BeachCampfire
-https://visit.rc3.world/@/rc3_21/WhistleblowVillage/main.json -> WhistleblowVillage-OldCampfireChat -> https://jitsi.rc3.world/WhistleblowVillage-OldCampfireChat
-https://visit.rc3.world/@/rc3_21/wikipaka/main.json -> shared-wikipakapartyklo -> https://jitsi.rc3.world/shared-wikipakapartyklo
-https://visit.rc3.world/@/rc3_21/wikipaka/main.json -> wikipaka-big-ballpit -> https://jitsi.rc3.world/wikipaka-big-ballpit
-https://visit.rc3.world/@/rc3_21/wikipaka/main.json -> wikipaka-desk1 -> https://jitsi.rc3.world/wikipaka-desk1
-https://visit.rc3.world/@/rc3_21/wikipaka/main.json -> wikipaka-desk2 -> https://jitsi.rc3.world/wikipaka-desk2
-https://visit.rc3.world/@/rc3_21/wikipaka/main.json -> wikipaka-desk4 -> https://jitsi.rc3.world/wikipaka-desk4
-https://visit.rc3.world/@/rc3_21/wikipaka/main.json -> wikipaka-poette -> https://jitsi.rc3.world/wikipaka-poette
-https://visit.rc3.world/@/rc3_21/wikipaka/main.json -> wikipaka-small-ballpit -> https://jitsi.rc3.world/wikipaka-small-ballpit
-https://visit.rc3.world/@/rc3_21/wikipaka/main.json -> wikipaka-wikipaka-kuechentisch -> https://jitsi.rc3.world/wikipaka-wikipaka-kuechentisch
-https://visit.rc3.world/@/rc3_21/wtfeg/main.json -> wtfeg-wtf -> https://jitsi.rc3.world/wtfeg-wtf
-https://visit.rc3.world/@/rc3_21/z-labor/main.json -> shared-chaoszone -> https://jitsi.rc3.world/shared-chaoszone
-https://visit.rc3.world/@/rc3_21/z-labor/zl-og.json -> z-labor-z-Labor -> https://jitsi.rc3.world/z-labor-z-Labor
-https://visit.rc3.world/@/rc3_21/ztl/main.json -> ztl-bastelecke -> https://jitsi.rc3.world/ztl-bastelecke
-https://visit.rc3.world/@/rc3_21/ztl/main.json -> ztl-besprechung -> https://jitsi.rc3.world/ztl-besprechung
-https://visit.rc3.world/@/rc3_21/ztl/main.json -> ztl-lounge -> https://jitsi.rc3.world/ztl-lounge
-https://visit.rc3.world/@/rc3_21/ztl/main.json -> ztl-werkstatt -> https://jitsi.rc3.world/ztl-werkstatt
+https://jitsi.rc3.world/0x90-0x90.space
+https://jitsi.rc3.world/0x90-DigitalesHeizhausBruecke
+https://jitsi.rc3.world/0x90-DigitalesHeizhausBrueckeSeminar
+https://jitsi.rc3.world/0x90-DigitalesHeizhausGarten
+https://jitsi.rc3.world/0x90-DigitalesHeizhausGarten2
+https://jitsi.rc3.world/0x90-DigitalesHeizhausHolzwerkstatt
+https://jitsi.rc3.world/0x90-DigitalesHeizhausWerkstatt
+https://jitsi.rc3.world/1komona-1komona
+https://jitsi.rc3.world/abchillgleis-c3chilllounge
+https://jitsi.rc3.world/afoio-
+https://jitsi.rc3.world/afoio-forum
+https://jitsi.rc3.world/afra-_afra_hackcenter
+https://jitsi.rc3.world/afra-_afra_sofa
+https://jitsi.rc3.world/airl-AdFreeForumMeeting1
+https://jitsi.rc3.world/airl-AdFreeForumMeeting2
+https://jitsi.rc3.world/akk-jitsi-akk-008
+https://jitsi.rc3.world/akk-jitsi-akk-buero
+https://jitsi.rc3.world/anarchist-village-campfire
+https://jitsi.rc3.world/anarchist-village-disco
+https://jitsi.rc3.world/anarchist-village-hacking
+https://jitsi.rc3.world/anarchist-village-hangout
+https://jitsi.rc3.world/atka-neumayer
+https://jitsi.rc3.world/awareness-AwarenessCafe
+https://jitsi.rc3.world/backdoor-backdoor
+https://jitsi.rc3.world/backdoor-tea
+https://jitsi.rc3.world/bc-WA-bar
+https://jitsi.rc3.world/bc-WA-BrauneEcke
+https://jitsi.rc3.world/bc-WA-KloFrauen
+https://jitsi.rc3.world/bc-WA-KloMaenner
+https://jitsi.rc3.world/bc-WA-Raucherbereich
+https://jitsi.rc3.world/bc-WA-Rumpelgasse
+https://jitsi.rc3.world/bc-WA-sofablau
+https://jitsi.rc3.world/bc-WA-sofabraunrot
+https://jitsi.rc3.world/bc-WA-sofagraugruen
+https://jitsi.rc3.world/bc-WA-Veteranentisch
+https://jitsi.rc3.world/binhacken-Technischer Untergrund
+https://jitsi.rc3.world/bitwaescherei-lounge
+https://jitsi.rc3.world/bogonauten-Bogonauten
+https://jitsi.rc3.world/Bordel-bordel-chillzone
+https://jitsi.rc3.world/bstly-bstly-clubhaus-bar
+https://jitsi.rc3.world/bstly-bstly-clubhaus-bathroom
+https://jitsi.rc3.world/bstly-bstly-clubhaus-campfire
+https://jitsi.rc3.world/bstly-bstly-clubhaus-chill-lounge
+https://jitsi.rc3.world/bstly-bstly-clubhaus-cinema
+https://jitsi.rc3.world/bstly-bstly-clubhaus-disco
+https://jitsi.rc3.world/bstly-bstly-clubhaus-game
+https://jitsi.rc3.world/bstly-bstly-clubhaus-playground
+https://jitsi.rc3.world/bstly-bstly-clubhaus-seminar-room
+https://jitsi.rc3.world/bub-bub_chillout
+https://jitsi.rc3.world/bytewerk-bytewerk
+https://jitsi.rc3.world/c2is-workshopTable
+https://jitsi.rc3.world/c3auti-b3
+https://jitsi.rc3.world/c3auti-b4
+https://jitsi.rc3.world/c3auti-b5
+https://jitsi.rc3.world/c3auti-b7
+https://jitsi.rc3.world/c3auti-c2
+https://jitsi.rc3.world/c3auti-c3
+https://jitsi.rc3.world/c3auti-c5
+https://jitsi.rc3.world/c3auti-d2
+https://jitsi.rc3.world/c3auti-d3
+https://jitsi.rc3.world/c3auti-d6
+https://jitsi.rc3.world/c3auti-e6
+https://jitsi.rc3.world/c3auti-e7
+https://jitsi.rc3.world/c3auti-f3
+https://jitsi.rc3.world/c3auti-f5
+https://jitsi.rc3.world/c3auti-f6
+https://jitsi.rc3.world/c3auti-g4
+https://jitsi.rc3.world/c3auti-g7
+https://jitsi.rc3.world/c3auti-helpdesk
+https://jitsi.rc3.world/c3auti-quiet-cube
+https://jitsi.rc3.world/c3pb-kitchen
+https://jitsi.rc3.world/c3pb-master
+https://jitsi.rc3.world/c3s-ChillloutC3S
+https://jitsi.rc3.world/c3s-WorkMeetingC3S
+https://jitsi.rc3.world/c4-cccc_cellar
+https://jitsi.rc3.world/c4-cccc_fnordCenter
+https://jitsi.rc3.world/c4-cccc_livingRoom
+https://jitsi.rc3.world/c4-cccc_livingRoom
+https://jitsi.rc3.world/c4-cccc_plenarSaal
+https://jitsi.rc3.world/c-base-cbaseAmbient
+https://jitsi.rc3.world/c-base-cbaseBierbank
+https://jitsi.rc3.world/c-base-cbaseFireplace
+https://jitsi.rc3.world/c-base-c-base-socialize
+https://jitsi.rc3.world/c-base-cbase-tunnel-fire
+https://jitsi.rc3.world/ccc-basel-assemblyCccBasel
+https://jitsi.rc3.world/cccch-cccch-rc3-teppiche
+https://jitsi.rc3.world/cccch-coredump-rc3
+https://jitsi.rc3.world/CCCHH-couch
+https://jitsi.rc3.world/CCCHH-deskGroup0
+https://jitsi.rc3.world/CCCHH-deskGroup1
+https://jitsi.rc3.world/CCCHH-garteneins
+https://jitsi.rc3.world/CCCHH-gartenzwei
+https://jitsi.rc3.world/CCCHH-kitchen
+https://jitsi.rc3.world/CCCHH-kleingruppenraum
+https://jitsi.rc3.world/CCCHH-toilet0
+https://jitsi.rc3.world/CCCHH-toilet1
+https://jitsi.rc3.world/cccp-discoroommachbar
+https://jitsi.rc3.world/cccp-machbarcampfire
+https://jitsi.rc3.world/cccsbg-couches
+https://jitsi.rc3.world/cccsbg-desks
+https://jitsi.rc3.world/cccsbg-lab0
+https://jitsi.rc3.world/cccsbg-lab1
+https://jitsi.rc3.world/cccwi-cccwi_room_duck
+https://jitsi.rc3.world/cccwi-cccwi_room_unicorn
+https://jitsi.rc3.world/cccwi-cccwi_stage_1
+https://jitsi.rc3.world/cccwi-cccwi_stage_2
+https://jitsi.rc3.world/cccwi-cccwi_stage_3
+https://jitsi.rc3.world/cccwi-ElevatorConf
+https://jitsi.rc3.world/cccwi-mapjitsi
+https://jitsi.rc3.world/cccwi-sidescrollerroom
+https://jitsi.rc3.world/cccwi-teddybear
+https://jitsi.rc3.world/cccwi-videotextroom
+https://jitsi.rc3.world/cccwi-videotextroom
+https://jitsi.rc3.world/cccwi-wispacetalk
+https://jitsi.rc3.world/cert-be_certlich
+https://jitsi.rc3.world/cert-dachterasse
+https://jitsi.rc3.world/cert-MeetingRoom
+https://jitsi.rc3.world/cert-ponycircus
+https://jitsi.rc3.world/cert-ponycircus
+https://jitsi.rc3.world/cert-ponycircus
+https://jitsi.rc3.world/cert-rocketworshippers
+https://jitsi.rc3.world/c-hack-ChillZone
+https://jitsi.rc3.world/chaosamsterdam-chaos-ams-basement-chill
+https://jitsi.rc3.world/chaosamsterdam-chaos-ams-smokingroom
+https://jitsi.rc3.world/chaosamsterdam-chaos-ground-toparea
+https://jitsi.rc3.world/Chaosmentors-blueTable
+https://jitsi.rc3.world/Chaosmentors-greenTable
+https://jitsi.rc3.world/Chaosmentors-jitjsi_easter1
+https://jitsi.rc3.world/Chaosmentors-jitsi1
+https://jitsi.rc3.world/Chaosmentors-jitsi2
+https://jitsi.rc3.world/Chaosmentors-jitsi3
+https://jitsi.rc3.world/Chaosmentors-jitsi4
+https://jitsi.rc3.world/Chaosmentors-jitsi5
+https://jitsi.rc3.world/Chaosmentors-jitsi6
+https://jitsi.rc3.world/Chaosmentors-redTable
+https://jitsi.rc3.world/Chaosmentors-yellowTable
+https://jitsi.rc3.world/chaostrawler-c3teleshop
+https://jitsi.rc3.world/chaostreffbern-assemblyChaostreffBernRoom1
+https://jitsi.rc3.world/chaostreffbern-assemblyChaostreffBernRoom2
+https://jitsi.rc3.world/chaostreffbern-assemblyChaostreffBernRoom3
+https://jitsi.rc3.world/chaotisch_inkorrekt-amongus
+https://jitsi.rc3.world/chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_1
+https://jitsi.rc3.world/chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_2
+https://jitsi.rc3.world/chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_3
+https://jitsi.rc3.world/chaotisch_inkorrekt-chaotischInkorrekt_EG_Tisch_4
+https://jitsi.rc3.world/chaotisch_inkorrekt-hoererinnentreffen
+https://jitsi.rc3.world/chaotisch_inkorrekt-kleineBuehne
+https://jitsi.rc3.world/chaotisch_inkorrekt-Labor
+https://jitsi.rc3.world/chaotisch_inkorrekt-Lagerfeuer
+https://jitsi.rc3.world/chaotisch_inkorrekt-leitstelle
+https://jitsi.rc3.world/chaotisch_inkorrekt-Werkstatt
+https://jitsi.rc3.world/chaotisch_inkorrekt-WO1
+https://jitsi.rc3.world/chaotisch_inkorrekt-zwift
+https://jitsi.rc3.world/chch-kosmonautenzentrum
+https://jitsi.rc3.world/chch-lagerfeuer
+https://jitsi.rc3.world/CleanElectric-CleanElectric
+https://jitsi.rc3.world/club-haengemathe-workadvBar
+https://jitsi.rc3.world/club-haengemathe-workadvFire
+https://jitsi.rc3.world/club-haengemathe-workadvTable1
+https://jitsi.rc3.world/cogis-meet.jit.si/cmrcc-rc3
+https://jitsi.rc3.world/computertruhe-Lager
+https://jitsi.rc3.world/computertruhe-Wohnzimmer
+https://jitsi.rc3.world/computerwerk-bundjugend
+https://jitsi.rc3.world/CtAz-moon
+https://jitsi.rc3.world/ctbk-wozibk-tisch1
+https://jitsi.rc3.world/ctbk-wozibk-tisch2
+https://jitsi.rc3.world/ctbk-wozibk-tisch3
+https://jitsi.rc3.world/ctbk-wozibk-tisch4
+https://jitsi.rc3.world/cyber4EDU-cyber4EDU_apple
+https://jitsi.rc3.world/cyber4EDU-cyber4EDU_book
+https://jitsi.rc3.world/cyber4EDU-cyber4EDU_coin
+https://jitsi.rc3.world/cyber4EDU-cyber4EDU_ring
+https://jitsi.rc3.world/cyberfirestation-CyberFireStationStueberl
+https://jitsi.rc3.world/cyberfirestation-CyberFireStationURoom
+https://jitsi.rc3.world/cyberyoga-baum1
+https://jitsi.rc3.world/cyberyoga-cyberyoga-baellebad
+https://jitsi.rc3.world/cyberyoga-cyberyoga-bar
+https://jitsi.rc3.world/cyberyoga-cyberyoga-dancefloor
+https://jitsi.rc3.world/cyberyoga-cyberyoga-popsofa
+https://jitsi.rc3.world/cyberyoga-floor-outdoor
+https://jitsi.rc3.world/cyberyoga-paletten1
+https://jitsi.rc3.world/cyberyoga-waklab-jitsy
+https://jitsi.rc3.world/daslabor-labor_chillout
+https://jitsi.rc3.world/daslabor-labor_mainroom
+https://jitsi.rc3.world/daslabor-labor_wc
+https://jitsi.rc3.world/daslabor-labor_workshop
+https://jitsi.rc3.world/deepcyber-deepcyber-central
+https://jitsi.rc3.world/deepcyber-saal1
+https://jitsi.rc3.world/deepcyber-saal2
+https://jitsi.rc3.world/deepcyber-workroom1
+https://jitsi.rc3.world/devbase-/dev/base
+https://jitsi.rc3.world/devlol-DevLolMainroom
+https://jitsi.rc3.world/devtal-devtal_chill
+https://jitsi.rc3.world/devtal-devtal_meeting
+https://jitsi.rc3.world/dezentrale-dezentrale_haupt
+https://jitsi.rc3.world/dezentrale-dezentrale_hw4f
+https://jitsi.rc3.world/dezentrale-dezentrale_party
+https://jitsi.rc3.world/digitalcourage-bibliothek1
+https://jitsi.rc3.world/digitalcourage-bibliothek2
+https://jitsi.rc3.world/digitalcourage-marktplatz
+https://jitsi.rc3.world/digitalcourage-shop
+https://jitsi.rc3.world/digitalcourage-studio
+https://jitsi.rc3.world/esperanto-EsperantoBabilejo
+https://jitsi.rc3.world/fairydustforest-labyrinth
+https://jitsi.rc3.world/fairydustforest-neotopibar
+https://jitsi.rc3.world/fairydustforest-openchaos
+https://jitsi.rc3.world/fairydustforest-sofa
+https://jitsi.rc3.world/fairydustforest-workshop
+https://jitsi.rc3.world/fem-konfi
+https://jitsi.rc3.world/fem-office
+https://jitsi.rc3.world/fixme-conf-public
+https://jitsi.rc3.world/fixme-conf-stage
+https://jitsi.rc3.world/fixme-crypto
+https://jitsi.rc3.world/fixme-Infraly
+https://jitsi.rc3.world/fixme-scitas
+https://jitsi.rc3.world/fixme-scitas-break
+https://jitsi.rc3.world/fixme-scitas-meeting
+https://jitsi.rc3.world/fixme-scitas-secret
+https://jitsi.rc3.world/flipdot-beExcellent
+https://jitsi.rc3.world/flipdot-beExcellent-subroom
+https://jitsi.rc3.world/flipdot-beExcellent-subroom2
+https://jitsi.rc3.world/flipdot-flipdot
+https://jitsi.rc3.world/fossag-blue
+https://jitsi.rc3.world/framasoft-framavillage
+https://jitsi.rc3.world/framasoft-hexenkueche
+https://jitsi.rc3.world/framasoft-lovepotion
+https://jitsi.rc3.world/frama-Tisch
+https://jitsi.rc3.world/franconian-aou_big
+https://jitsi.rc3.world/franconian-aou_small
+https://jitsi.rc3.world/franconian-franconianone
+https://jitsi.rc3.world/franconian-seminarraum
+https://jitsi.rc3.world/franconian-Sofa-Ecke
+https://jitsi.rc3.world/franconian-Sofa-Ecke
+https://jitsi.rc3.world/franconian-Sofa-Ecke-01
+https://jitsi.rc3.world/franconian-Sofa-Ecke-02
+https://jitsi.rc3.world/franconian-Sofa-Ecke-03
+https://jitsi.rc3.world/freeside-bar
+https://jitsi.rc3.world/freeside-bar
+https://jitsi.rc3.world/freeside-bar
+https://jitsi.rc3.world/freeside-bar
+https://jitsi.rc3.world/freeside-bar
+https://jitsi.rc3.world/freeside-camp
+https://jitsi.rc3.world/frubar-frubar
+https://jitsi.rc3.world/frubar-frubar
+https://jitsi.rc3.world/fsfe-fsfe-meet
+https://jitsi.rc3.world/fsfewomen-fsfewchill
+https://jitsi.rc3.world/fsfewomen-fsfewtalk
+https://jitsi.rc3.world/fsrvi-Sofas
+https://jitsi.rc3.world/gaffa-overflow-Main Room
+https://jitsi.rc3.world/gaffa-overflow-Meeting Room
+https://jitsi.rc3.world/gaffa-overflow-Meeting Room 2
+https://jitsi.rc3.world/gaffa-overflow-Meeting1
+https://jitsi.rc3.world/gelb-c3gelb-bar
+https://jitsi.rc3.world/GeraffelVillage-geraffel-village-kitchen
+https://jitsi.rc3.world/hacc-muc-hacc_chillout
+https://jitsi.rc3.world/hacc-muc-hacc_plenum
+https://jitsi.rc3.world/hacc-muc-hacc_stage_cam
+https://jitsi.rc3.world/hacklabor-Hacklabor
+https://jitsi.rc3.world/hacklabor-Hacklabor-Flausch
+https://jitsi.rc3.world/hell-Obergeschoss
+https://jitsi.rc3.world/hell-Trixmix_Wagen_1__lkjdsafjkhsadfkjh
+https://jitsi.rc3.world/himmel-Aquarium
+https://jitsi.rc3.world/himmel-heaven-backoffice-chillout
+https://jitsi.rc3.world/himmel-heaven-backoffice-work
+https://jitsi.rc3.world/himmel-heaven-hackcenter
+https://jitsi.rc3.world/hoc-fuck_dome
+https://jitsi.rc3.world/hoc-fuck_summoning
+https://jitsi.rc3.world/horny_jail-Cuddlebutt
+https://jitsi.rc3.world/horny_jail-Cuddlebutt
+https://jitsi.rc3.world/horny_jail-dome_jitsi
+https://jitsi.rc3.world/horny_jail-nature_reserve
+https://jitsi.rc3.world/hsmr-dsg-essen
+https://jitsi.rc3.world/hsmr-hsmr-carpet-1
+https://jitsi.rc3.world/hsmr-hsmr-carpet-2
+https://jitsi.rc3.world/hsmr-hsmr-comfy-corner
+https://jitsi.rc3.world/hsmr-hsmr-conference-room
+https://jitsi.rc3.world/hsmr-hsmr-coworking-room
+https://jitsi.rc3.world/hsmr-hsmr-hack-bar
+https://jitsi.rc3.world/hsmr-hsmr-working-room
+https://jitsi.rc3.world/hswaw-bgpwtf
+https://jitsi.rc3.world/hswaw-hackcenter
+https://jitsi.rc3.world/hswaw-kuka
+https://jitsi.rc3.world/icmp-rICMPbar
+https://jitsi.rc3.world/icmp-rICMPworkshop
+https://jitsi.rc3.world/iconetfoundation-big1
+https://jitsi.rc3.world/iconetfoundation-hint
+https://jitsi.rc3.world/iconetfoundation-hint
+https://jitsi.rc3.world/iconetfoundation-hint
+https://jitsi.rc3.world/infra-infraqa
+https://jitsi.rc3.world/infra-readyroom
+https://jitsi.rc3.world/kalkspace-Esstisch
+https://jitsi.rc3.world/kinkygeeks-cage
+https://jitsi.rc3.world/kinkygeeks-darkroom
+https://jitsi.rc3.world/kinkygeeks-kinkyGeeks
+https://jitsi.rc3.world/lebkuchis-gluehwein
+https://jitsi.rc3.world/lebkuchis-kueche
+https://jitsi.rc3.world/lebkuchis-lebkuchen
+https://jitsi.rc3.world/lebkuchis-lebkuchis_cellar
+https://jitsi.rc3.world/lebkuchis-zuckerstange
+https://jitsi.rc3.world/leinestelle511-leitstellehackcenter1
+https://jitsi.rc3.world/leinestelle511-leitstellehackcenter2
+https://jitsi.rc3.world/leinestelle511-leitstellehackcenter3
+https://jitsi.rc3.world/leinestelle511-leitstellehackcenter4
+https://jitsi.rc3.world/leinestelle511-leitstellenmeetup
+https://jitsi.rc3.world/leinestelle511-nebenstellenmeetup
+https://jitsi.rc3.world/lobby-fairyhub
+https://jitsi.rc3.world/lobby-infodesk
+https://jitsi.rc3.world/lobby-infodesk
+https://jitsi.rc3.world/lobby-infodesk
+https://jitsi.rc3.world/lobby-ist-das-kunst-oder-kann-das-weg
+https://jitsi.rc3.world/lobby-memberdesk
+https://jitsi.rc3.world/loc-Helpdesk
+https://jitsi.rc3.world/lounge-drogen baustamm 2
+https://jitsi.rc3.world/lounge-drogen jitsi 2
+https://jitsi.rc3.world/lounge-jungle baradiesvogel
+https://jitsi.rc3.world/lounge-jungle baustamm 1
+https://jitsi.rc3.world/lounge-jungle baustamm 2
+https://jitsi.rc3.world/lounge-jungle dance floor
+https://jitsi.rc3.world/lounge-jungle super secret
+https://jitsi.rc3.world/maglab-maglab-roundtable
+https://jitsi.rc3.world/mainframe-mainframe
+https://jitsi.rc3.world/mch2022-mch2021
+https://jitsi.rc3.world/Mehlverkehr-kaffeepause-SdHQ
+https://jitsi.rc3.world/Mehlverkehr-mehlverkehr
+https://jitsi.rc3.world/Metalab-baellebad
+https://jitsi.rc3.world/Metalab-bibliothek
+https://jitsi.rc3.world/Metalab-garden_couch1
+https://jitsi.rc3.world/Metalab-garden_couch2
+https://jitsi.rc3.world/Metalab-garden_couch3
+https://jitsi.rc3.world/Metalab-hauptraum1
+https://jitsi.rc3.world/Metalab-hauptraum2
+https://jitsi.rc3.world/Metalab-hm
+https://jitsi.rc3.world/Metalab-lazzzzzor
+https://jitsi.rc3.world/Metalab-metadome
+https://jitsi.rc3.world/Metalab-sitzklo
+https://jitsi.rc3.world/Metalab-wel
+https://jitsi.rc3.world/MISChaufen-MISCHaufen
+https://jitsi.rc3.world/Moabit-
+https://jitsi.rc3.world/moneybin-Sitzecke
+https://jitsi.rc3.world/muccc-card10
+https://jitsi.rc3.world/muccc-card10helpdesk
+https://jitsi.rc3.world/muccc-hashpipe
+https://jitsi.rc3.world/muccc-muc3Lounge
+https://jitsi.rc3.world/muccc-muccc ACAB
+https://jitsi.rc3.world/muccc-muccc biergarten
+https://jitsi.rc3.world/muccc-muccc couches
+https://jitsi.rc3.world/muccc-muccc Hauptraum
+https://jitsi.rc3.world/muccc-muccc printer
+https://jitsi.rc3.world/muccc-muccc session
+https://jitsi.rc3.world/muccc-mucccRattennest
+https://jitsi.rc3.world/Multigeiger-multigeiger-meetup-bar-east
+https://jitsi.rc3.world/Multigeiger-multigeiger-meetup-bar-west
+https://jitsi.rc3.world/mv-straze_bar
+https://jitsi.rc3.world/mv-straze_bonfire
+https://jitsi.rc3.world/nerdhof-baelleBad
+https://jitsi.rc3.world/nerdhof-barnDisco
+https://jitsi.rc3.world/nerdhof-Terrace
+https://jitsi.rc3.world/nerdhof-Veranda
+https://jitsi.rc3.world/nerdraum-ChillZone
+https://jitsi.rc3.world/nerdraum-ChillZone
+https://jitsi.rc3.world/nerdraum-MeetingRoom
+https://jitsi.rc3.world/nerdraum-MeetingRoom
+https://jitsi.rc3.world/nixmuss-ChillZone
+https://jitsi.rc3.world/numberwang-conference
+https://jitsi.rc3.world/openlabaux-OpenLabKitchen
+https://jitsi.rc3.world/OpenScienceSCC-osscc1
+https://jitsi.rc3.world/osm-Fireplace
+https://jitsi.rc3.world/osm-OSM-Restaurant
+https://jitsi.rc3.world/ots-opentechschool
+https://jitsi.rc3.world/PGspace-KidscapeBallbath
+https://jitsi.rc3.world/PGspace-KidspaceForest
+https://jitsi.rc3.world/PGspace-KidspacePhone
+https://jitsi.rc3.world/poc-PoC_Backstage
+https://jitsi.rc3.world/poc-PoC_Raucherbereich
+https://jitsi.rc3.world/portcarl-portcarl-backstage-bar
+https://jitsi.rc3.world/portcarl-portcarl-lagerfeuer
+https://jitsi.rc3.world/portcarl-portcarlplenum
+https://jitsi.rc3.world/privacyweek-dome
+https://jitsi.rc3.world/privacyweek-dome
+https://jitsi.rc3.world/privacyweek-dome0
+https://jitsi.rc3.world/privacyweek-Pausenraum
+https://jitsi.rc3.world/privacyweek-workshop1
+https://jitsi.rc3.world/prost-Baellebad
+https://jitsi.rc3.world/prost-Dachsofa
+https://jitsi.rc3.world/radiotipi-radiotipi
+https://jitsi.rc3.world/rcc-rosasclubcave
+https://jitsi.rc3.world/readventures-reverse-engineering-adventures
+https://jitsi.rc3.world/realtheorie-RT_meet
+https://jitsi.rc3.world/rust-rustAssembly
+https://jitsi.rc3.world/RZL-RaumZeitLabor
+https://jitsi.rc3.world/samatrix-sama-chillout
+https://jitsi.rc3.world/samatrix-sama-tresen
+https://jitsi.rc3.world/samatrix-trix-fire
+https://jitsi.rc3.world/schenklradio-SchenklRadio
+https://jitsi.rc3.world/schokoladensouffle-lobby
+https://jitsi.rc3.world/sendezentrum-sz-podcastpatinnen
+https://jitsi.rc3.world/sendezentrum-sz-sendegarten
+https://jitsi.rc3.world/sendezentrum-sz-table1
+https://jitsi.rc3.world/sendezentrum-sz-table2
+https://jitsi.rc3.world/sendezentrum-sz-table3
+https://jitsi.rc3.world/sendezentrum-sz-table4
+https://jitsi.rc3.world/shared flying-objects
+https://jitsi.rc3.world/shared kitchenparty
+https://jitsi.rc3.world/shared kitchenparty
+https://jitsi.rc3.world/shared kitchenparty
+https://jitsi.rc3.world/shared oio-bonfire
+https://jitsi.rc3.world/shared oio-treppe
+https://jitsi.rc3.world/shared oio-tunnel
+https://jitsi.rc3.world/shared_alle_instanzen_jitsi
+https://jitsi.rc3.world/shared_blinknlights
+https://jitsi.rc3.world/shared_chaoswelle
+https://jitsi.rc3.world/shared_chaoswelle_ws
+https://jitsi.rc3.world/shared_flipdot
+https://jitsi.rc3.world/shared_herewetalk
+https://jitsi.rc3.world/shared_heyopeops
+https://jitsi.rc3.world/shared_heyopeops
+https://jitsi.rc3.world/shared_heyopeops2
+https://jitsi.rc3.world/shared_heyopeops3
+https://jitsi.rc3.world/shared_nixos_noobs
+https://jitsi.rc3.world/shared_SelbsthilfeGruppe
+https://jitsi.rc3.world/shared_ssdev
+https://jitsi.rc3.world/shared-burning-market
+https://jitsi.rc3.world/shared-burning-market
+https://jitsi.rc3.world/shared-chaos-ams-phonebooth
+https://jitsi.rc3.world/shared-chaos-ams-phonebooth
+https://jitsi.rc3.world/shared-chaoszone
+https://jitsi.rc3.world/shared-chaoszone
+https://jitsi.rc3.world/shared-chaoszone
+https://jitsi.rc3.world/shared-chaoszone
+https://jitsi.rc3.world/shared-chaoszone
+https://jitsi.rc3.world/shared-chaoszone
+https://jitsi.rc3.world/shared-chaoszone
+https://jitsi.rc3.world/shared-chaoszone
+https://jitsi.rc3.world/shared-chch
+https://jitsi.rc3.world/shared-chch
+https://jitsi.rc3.world/shared-chch
+https://jitsi.rc3.world/shared-chch
+https://jitsi.rc3.world/shared-cy-telefon
+https://jitsi.rc3.world/shared-cy-telefon
+https://jitsi.rc3.world/shared-cy-telefon
+https://jitsi.rc3.world/sharedDarkroom
+https://jitsi.rc3.world/shared-GlobalPhonebook
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-GlobalPhonebooth
+https://jitsi.rc3.world/shared-heizhauskatze
+https://jitsi.rc3.world/shared-helferlein
+https://jitsi.rc3.world/shared-JitsiPhonebooth
+https://jitsi.rc3.world/shared-Kloparty
+https://jitsi.rc3.world/shared-kloparty
+https://jitsi.rc3.world/shared-kloparty
+https://jitsi.rc3.world/shared-kloparty
+https://jitsi.rc3.world/shared-kloparty
+https://jitsi.rc3.world/shared-kloparty
+https://jitsi.rc3.world/shared-kloparty
+https://jitsi.rc3.world/shared-Lagerfeuerwithfiff
+https://jitsi.rc3.world/shared-mathguys
+https://jitsi.rc3.world/shared-Nerdraum
+https://jitsi.rc3.world/shared-nullaufeins
+https://jitsi.rc3.world/shared-nullaufeins
+https://jitsi.rc3.world/shared-OpenLabMain
+https://jitsi.rc3.world/shared-Sofa
+https://jitsi.rc3.world/shared-TronLab
+https://jitsi.rc3.world/shared-uberghain
+https://jitsi.rc3.world/shared-vatican-embassy
+https://jitsi.rc3.world/shared-VirtualFIXME
+https://jitsi.rc3.world/shared-wikipakapartyklo
+https://jitsi.rc3.world/siliconforest-siliconforest
+https://jitsi.rc3.world/silpion-silpion-blackfloor
+https://jitsi.rc3.world/silpion-silpion-konfi6og
+https://jitsi.rc3.world/silpion-silpion-oliver
+https://jitsi.rc3.world/silpion-silpion-patrick
+https://jitsi.rc3.world/silpion-silpion-raucherraum
+https://jitsi.rc3.world/spacebi-spacebi_wc
+https://jitsi.rc3.world/spacebi-spacebi_wk1
+https://jitsi.rc3.world/spacebi-spacebi_wk2
+https://jitsi.rc3.world/spacebi-spacebi_wohnzimmer
+https://jitsi.rc3.world/space-left-space_left_main_room
+https://jitsi.rc3.world/stratum0-kitchen
+https://jitsi.rc3.world/swabian-embassy-swabianembassy-biergarten
+https://jitsi.rc3.world/tabvillage-stuhlkreis
+https://jitsi.rc3.world/tabvillage-telefon
+https://jitsi.rc3.world/telnet-telnet-tresen
+https://jitsi.rc3.world/TMS-SDRCTS_BY_TMS
+https://jitsi.rc3.world/tomorrowland-gaming
+https://jitsi.rc3.world/tomorrowland-shards
+https://jitsi.rc3.world/toppoint-intercom
+https://jitsi.rc3.world/toppoint-toppoint_lounge
+https://jitsi.rc3.world/tox-cafe_floor01
+https://jitsi.rc3.world/tox-tox_cafe
+https://jitsi.rc3.world/tox-tox_cafe
+https://jitsi.rc3.world/unhb-baellebad
+https://jitsi.rc3.world/unhb-lagerfeuer
+https://jitsi.rc3.world/unhb-space
+https://jitsi.rc3.world/unhb-tisch-kino
+https://jitsi.rc3.world/unhb-unhb_garten
+https://jitsi.rc3.world/unhb-unhb_office
+https://jitsi.rc3.world/unhb-winkekatze
+https://jitsi.rc3.world/V7-inderstadt
+https://jitsi.rc3.world/vbhf-vbhf-couch
+https://jitsi.rc3.world/vbhf-vbhf-tische
+https://jitsi.rc3.world/vbhf-vbhf-wz1
+https://jitsi.rc3.world/vbhf-vbhf-wz2
+https://jitsi.rc3.world/warpzone-chaos-lounge
+https://jitsi.rc3.world/WhistleblowVillage-BeachCampfire
+https://jitsi.rc3.world/WhistleblowVillage-CampfireChat
+https://jitsi.rc3.world/WhistleblowVillage-OldCampfireChat
+https://jitsi.rc3.world/wikipaka-big-ballpit
+https://jitsi.rc3.world/wikipaka-desk1
+https://jitsi.rc3.world/wikipaka-desk2
+https://jitsi.rc3.world/wikipaka-desk4
+https://jitsi.rc3.world/wikipaka-poette
+https://jitsi.rc3.world/wikipaka-small-ballpit
+https://jitsi.rc3.world/wikipaka-wikipaka-kuechentisch
+https://jitsi.rc3.world/wtfeg-wtf
+https://jitsi.rc3.world/ztl-bastelecke
+https://jitsi.rc3.world/ztl-besprechung
+https://jitsi.rc3.world/ztl-lounge
+https://jitsi.rc3.world/ztl-werkstatt
